@@ -1,0 +1,3651 @@
+date,employee,role,hours_worked
+2025-01-01,Alex,Server,6.58
+2025-01-01,Jordan,Server,6.72
+2025-01-01,Mia,Server,6.4
+2025-01-01,Sam,Server,6.12
+2025-01-01,Taylor,Server,6.71
+2025-01-01,Chris,Server,
+2025-01-01,Ken,Sushi Chef,6.76
+2025-01-01,Leo,Sushi Chef,6.51
+2025-01-01,Nina,Kitchen,6.78
+2025-01-01,Owen,Kitchen,6.91
+2025-01-02,Alex,Server,7.07
+2025-01-02,Jordan,Server,6.85
+2025-01-02,Mia,Server,6.5
+2025-01-02,Sam,Server,7.45
+2025-01-02,Taylor,Server,6.48
+2025-01-02,Chris,Server,7.21
+2025-01-02,Ken,Sushi Chef,7.61
+2025-01-02,Leo,Sushi Chef,7.58
+2025-01-02,Nina,Kitchen,7.16
+2025-01-02,Owen,Kitchen,7.06
+2025-01-03,Alex,Server,6.5
+2025-01-03,Jordan,Server,6.93
+2025-01-03,Mia,Server,6.11
+2025-01-03,Sam,Server,6.37
+2025-01-03,Taylor,Server,7.33
+2025-01-03,Chris,Server,6.81
+2025-01-03,Ken,Sushi Chef,7.48
+2025-01-03,Leo,Sushi Chef,6.39
+2025-01-03,Nina,Kitchen,6.78
+2025-01-03,Owen,Kitchen,7.17
+2025-01-04,Alex,Server,7.98
+2025-01-04,Jordan,Server,7.39
+2025-01-04,Mia,Server,8.38
+2025-01-04,Sam,Server,8.54
+2025-01-04,Taylor,Server,7.86
+2025-01-04,Chris,Server,8.4
+2025-01-04,Ken,Sushi Chef,9.51
+2025-01-04,Leo,Sushi Chef,9.26
+2025-01-04,Nina,Kitchen,8.38
+2025-01-04,Owen,Kitchen,7.95
+2025-01-05,Alex,Server,8.12
+2025-01-05,Jordan,Server,9.17
+2025-01-05,Mia,Server,8.67
+2025-01-05,Sam,Server,8.0
+2025-01-05,Taylor,Server,8.78
+2025-01-05,Chris,Server,8.58
+2025-01-05,Ken,Sushi Chef,7.55
+2025-01-05,Leo,Sushi Chef,9.03
+2025-01-05,Nina,Kitchen,8.56
+2025-01-05,Owen,Kitchen,8.07
+2025-01-06,Alex,Server,6.55
+2025-01-06,Jordan,Server,6.71
+2025-01-06,Mia,Server,6.1
+2025-01-06,Sam,Server,6.44
+2025-01-06,Taylor,Server,6.33
+2025-01-06,Chris,Server,6.9
+2025-01-06,Ken,Sushi Chef,6.85
+2025-01-06,Leo,Sushi Chef,6.15
+2025-01-06,Nina,Kitchen,6.78
+2025-01-06,Owen,Kitchen,6.53
+2025-01-07,Alex,Server,5.85
+2025-01-07,Jordan,Server,7.09
+2025-01-07,Mia,Server,6.9
+2025-01-07,Sam,Server,6.02
+2025-01-07,Taylor,Server,5.87
+2025-01-07,Chris,Server,6.45
+2025-01-07,Ken,Sushi Chef,6.34
+2025-01-07,Leo,Sushi Chef,6.88
+2025-01-07,Nina,Kitchen,7.04
+2025-01-07,Owen,Kitchen,7.15
+2025-01-08,Alex,Server,6.67
+2025-01-08,Jordan,Server,6.11
+2025-01-08,Mia,Server,6.54
+2025-01-08,Sam,Server,7.14
+2025-01-08,Taylor,Server,5.45
+2025-01-08,Chris,Server,6.66
+2025-01-08,Ken,Sushi Chef,6.41
+2025-01-08,Leo,Sushi Chef,7.7
+2025-01-08,Nina,Kitchen,7.41
+2025-01-08,Owen,Kitchen,7.39
+2025-01-09,Alex,Server,6.07
+2025-01-09,Jordan,Server,6.63
+2025-01-09,Mia,Server,6.69
+2025-01-09,Sam,Server,5.31
+2025-01-09,Taylor,Server,6.57
+2025-01-09,Chris,Server,6.81
+2025-01-09,Ken,Sushi Chef,6.29
+2025-01-09,Leo,Sushi Chef,7.3
+2025-01-09,Nina,Kitchen,7.05
+2025-01-09,Owen,Kitchen,7.69
+2025-01-10,Alex,Server,6.29
+2025-01-10,Jordan,Server,6.59
+2025-01-10,Mia,Server,6.67
+2025-01-10,Sam,Server,5.1
+2025-01-10,Taylor,Server,6.32
+2025-01-10,Chris,Server,6.54
+2025-01-10,Ken,Sushi Chef,5.82
+2025-01-10,Leo,Sushi Chef,7.34
+2025-01-10,Nina,Kitchen,7.04
+2025-01-10,Owen,Kitchen,7.04
+2025-01-11,Alex,Server,8.36
+2025-01-11,Jordan,Server,7.79
+2025-01-11,Mia,Server,8.02
+2025-01-11,Sam,Server,8.43
+2025-01-11,Taylor,Server,8.03
+2025-01-11,Chris,Server,7.08
+2025-01-11,Ken,Sushi Chef,8.53
+2025-01-11,Leo,Sushi Chef,8.53
+2025-01-11,Nina,Kitchen,8.95
+2025-01-11,Owen,Kitchen,8.33
+2025-01-12,Alex,Server,7.51
+2025-01-12,Jordan,Server,7.51
+2025-01-12,Mia,Server,8.72
+2025-01-12,Sam,Server,8.14
+2025-01-12,Taylor,Server,8.7
+2025-01-12,Chris,Server,8.77
+2025-01-12,Ken,Sushi Chef,8.13
+2025-01-12,Leo,Sushi Chef,8.09
+2025-01-12,Nina,Kitchen,8.44
+2025-01-12,Owen,Kitchen,8.81
+2025-01-13,Alex,Server,5.8
+2025-01-13,Jordan,Server,6.73
+2025-01-13,Mia,Server,6.7
+2025-01-13,Sam,Server,5.94
+2025-01-13,Taylor,Server,5.95
+2025-01-13,Chris,Server,6.72
+2025-01-13,Ken,Sushi Chef,8.04
+2025-01-13,Leo,Sushi Chef,6.85
+2025-01-13,Nina,Kitchen,7.16
+2025-01-13,Owen,Kitchen,6.7
+2025-01-14,Alex,Server,6.62
+2025-01-14,Jordan,Server,6.19
+2025-01-14,Mia,Server,6.37
+2025-01-14,Sam,Server,7.72
+2025-01-14,Taylor,Server,6.55
+2025-01-14,Chris,Server,5.72
+2025-01-14,Ken,Sushi Chef,7.32
+2025-01-14,Leo,Sushi Chef,7.56
+2025-01-14,Nina,Kitchen,7.34
+2025-01-14,Owen,Kitchen,6.91
+2025-01-15,Alex,Server,6.04
+2025-01-15,Jordan,Server,6.05
+2025-01-15,Mia,Server,6.41
+2025-01-15,Sam,Server,6.32
+2025-01-15,Taylor,Server,6.22
+2025-01-15,Chris,Server,7.11
+2025-01-15,Ken,Sushi Chef,7.46
+2025-01-15,Leo,Sushi Chef,7.63
+2025-01-15,Nina,Kitchen,6.61
+2025-01-15,Owen,Kitchen,6.54
+2025-01-16,Alex,Server,6.54
+2025-01-16,Jordan,Server,6.71
+2025-01-16,Mia,Server,6.54
+2025-01-16,Sam,Server,6.67
+2025-01-16,Taylor,Server,7.29
+2025-01-16,Chris,Server,6.39
+2025-01-16,Ken,Sushi Chef,7.4
+2025-01-16,Leo,Sushi Chef,7.26
+2025-01-16,Nina,Kitchen,7.05
+2025-01-16,Owen,Kitchen,7.38
+2025-01-17,Alex,Server,6.12
+2025-01-17,Jordan,Server,6.02
+2025-01-17,Mia,Server,6.72
+2025-01-17,Sam,Server,5.68
+2025-01-17,Taylor,Server,6.76
+2025-01-17,Chris,Server,5.94
+2025-01-17,Ken,Sushi Chef,7.76
+2025-01-17,Leo,Sushi Chef,6.8
+2025-01-17,Nina,Kitchen,7.73
+2025-01-17,Owen,Kitchen,6.89
+2025-01-18,Alex,Server,7.87
+2025-01-18,Jordan,Server,8.43
+2025-01-18,Mia,Server,8.15
+2025-01-18,Sam,Server,7.97
+2025-01-18,Taylor,Server,7.8
+2025-01-18,Chris,Server,7.8
+2025-01-18,Ken,Sushi Chef,9.68
+2025-01-18,Leo,Sushi Chef,7.66
+2025-01-18,Nina,Kitchen,7.9
+2025-01-18,Owen,Kitchen,9.09
+2025-01-19,Alex,Server,8.55
+2025-01-19,Jordan,Server,7.54
+2025-01-19,Mia,Server,7.12
+2025-01-19,Sam,Server,8.64
+2025-01-19,Taylor,Server,7.48
+2025-01-19,Chris,Server,7.75
+2025-01-19,Ken,Sushi Chef,8.55
+2025-01-19,Leo,Sushi Chef,7.96
+2025-01-19,Nina,Kitchen,8.96
+2025-01-19,Owen,Kitchen,8.51
+2025-01-20,Alex,Server,6.06
+2025-01-20,Jordan,Server,6.1
+2025-01-20,Mia,Server,7.15
+2025-01-20,Sam,Server,6.36
+2025-01-20,Taylor,Server,6.81
+2025-01-20,Chris,Server,6.5
+2025-01-20,Ken,Sushi Chef,6.12
+2025-01-20,Leo,Sushi Chef,7.37
+2025-01-20,Nina,Kitchen,7.54
+2025-01-20,Owen,Kitchen,7.92
+2025-01-21,Alex,Server,5.55
+2025-01-21,Jordan,Server,4.92
+2025-01-21,Mia,Server,6.82
+2025-01-21,Sam,Server,6.2
+2025-01-21,Taylor,Server,
+2025-01-21,Chris,Server,6.55
+2025-01-21,Ken,Sushi Chef,6.78
+2025-01-21,Leo,Sushi Chef,6.36
+2025-01-21,Nina,Kitchen,6.96
+2025-01-21,Owen,Kitchen,7.28
+2025-01-22,Alex,Server,6.59
+2025-01-22,Jordan,Server,6.59
+2025-01-22,Mia,Server,6.72
+2025-01-22,Sam,Server,5.65
+2025-01-22,Taylor,Server,6.47
+2025-01-22,Chris,Server,6.62
+2025-01-22,Ken,Sushi Chef,6.81
+2025-01-22,Leo,Sushi Chef,6.59
+2025-01-22,Nina,Kitchen,6.63
+2025-01-22,Owen,Kitchen,6.85
+2025-01-23,Alex,Server,6.96
+2025-01-23,Jordan,Server,7.26
+2025-01-23,Mia,Server,7.16
+2025-01-23,Sam,Server,5.72
+2025-01-23,Taylor,Server,6.03
+2025-01-23,Chris,Server,6.83
+2025-01-23,Ken,Sushi Chef,7.65
+2025-01-23,Leo,Sushi Chef,6.52
+2025-01-23,Nina,Kitchen,7.09
+2025-01-23,Owen,Kitchen,6.43
+2025-01-24,Alex,Server,6.64
+2025-01-24,Jordan,Server,6.18
+2025-01-24,Mia,Server,6.59
+2025-01-24,Sam,Server,5.89
+2025-01-24,Taylor,Server,5.68
+2025-01-24,Chris,Server,8.05
+2025-01-24,Ken,Sushi Chef,7.03
+2025-01-24,Leo,Sushi Chef,8.07
+2025-01-24,Nina,Kitchen,7.75
+2025-01-24,Owen,Kitchen,6.18
+2025-01-25,Alex,Server,8.18
+2025-01-25,Jordan,Server,7.35
+2025-01-25,Mia,Server,7.85
+2025-01-25,Sam,Server,7.06
+2025-01-25,Taylor,Server,7.21
+2025-01-25,Chris,Server,7.57
+2025-01-25,Ken,Sushi Chef,8.23
+2025-01-25,Leo,Sushi Chef,8.52
+2025-01-25,Nina,Kitchen,7.98
+2025-01-25,Owen,Kitchen,8.57
+2025-01-26,Alex,Server,8.57
+2025-01-26,Jordan,Server,8.14
+2025-01-26,Mia,Server,7.97
+2025-01-26,Sam,Server,8.17
+2025-01-26,Taylor,Server,7.28
+2025-01-26,Chris,Server,8.48
+2025-01-26,Ken,Sushi Chef,7.9
+2025-01-26,Leo,Sushi Chef,9.28
+2025-01-26,Nina,Kitchen,8.89
+2025-01-26,Owen,Kitchen,8.78
+2025-01-27,Alex,Server,6.8
+2025-01-27,Jordan,Server,6.5
+2025-01-27,Mia,Server,6.11
+2025-01-27,Sam,Server,6.03
+2025-01-27,Taylor,Server,7.38
+2025-01-27,Chris,Server,6.55
+2025-01-27,Ken,Sushi Chef,6.44
+2025-01-27,Leo,Sushi Chef,7.26
+2025-01-27,Nina,Kitchen,7.17
+2025-01-27,Owen,Kitchen,6.84
+2025-01-28,Alex,Server,6.05
+2025-01-28,Jordan,Server,6.87
+2025-01-28,Mia,Server,6.97
+2025-01-28,Sam,Server,6.66
+2025-01-28,Taylor,Server,6.54
+2025-01-28,Chris,Server,6.11
+2025-01-28,Ken,Sushi Chef,7.24
+2025-01-28,Leo,Sushi Chef,6.68
+2025-01-28,Nina,Kitchen,6.36
+2025-01-28,Owen,Kitchen,7.56
+2025-01-29,Alex,Server,5.99
+2025-01-29,Jordan,Server,5.55
+2025-01-29,Mia,Server,7.15
+2025-01-29,Sam,Server,5.63
+2025-01-29,Taylor,Server,6.31
+2025-01-29,Chris,Server,5.95
+2025-01-29,Ken,Sushi Chef,6.64
+2025-01-29,Leo,Sushi Chef,8.11
+2025-01-29,Nina,Kitchen,6.95
+2025-01-29,Owen,Kitchen,7.18
+2025-01-30,Alex,Server,6.9
+2025-01-30,Jordan,Server,6.18
+2025-01-30,Mia,Server,7.04
+2025-01-30,Sam,Server,6.69
+2025-01-30,Taylor,Server,6.88
+2025-01-30,Chris,Server,6.14
+2025-01-30,Ken,Sushi Chef,7.22
+2025-01-30,Leo,Sushi Chef,7.0
+2025-01-30,Nina,Kitchen,7.56
+2025-01-30,Owen,Kitchen,6.73
+2025-01-31,Alex,Server,7.52
+2025-01-31,Jordan,Server,6.67
+2025-01-31,Mia,Server,6.44
+2025-01-31,Sam,Server,6.38
+2025-01-31,Taylor,Server,6.5
+2025-01-31,Chris,Server,6.19
+2025-01-31,Ken,Sushi Chef,7.33
+2025-01-31,Leo,Sushi Chef,6.99
+2025-01-31,Nina,Kitchen,7.97
+2025-01-31,Owen,Kitchen,6.78
+2025-02-01,Alex,Server,7.94
+2025-02-01,Jordan,Server,7.78
+2025-02-01,Mia,Server,8.93
+2025-02-01,Sam,Server,7.28
+2025-02-01,Taylor,Server,8.05
+2025-02-01,Chris,Server,8.16
+2025-02-01,Ken,Sushi Chef,7.94
+2025-02-01,Leo,Sushi Chef,9.82
+2025-02-01,Nina,Kitchen,8.03
+2025-02-01,Owen,Kitchen,8.52
+2025-02-02,Alex,Server,8.84
+2025-02-02,Jordan,Server,7.81
+2025-02-02,Mia,Server,8.07
+2025-02-02,Sam,Server,7.83
+2025-02-02,Taylor,Server,7.97
+2025-02-02,Chris,Server,8.54
+2025-02-02,Ken,Sushi Chef,8.29
+2025-02-02,Leo,Sushi Chef,7.17
+2025-02-02,Nina,Kitchen,8.48
+2025-02-02,Owen,Kitchen,8.53
+2025-02-03,Alex,Server,6.6
+2025-02-03,Jordan,Server,6.41
+2025-02-03,Mia,Server,6.07
+2025-02-03,Sam,Server,6.38
+2025-02-03,Taylor,Server,7.38
+2025-02-03,Chris,Server,6.48
+2025-02-03,Ken,Sushi Chef,7.33
+2025-02-03,Leo,Sushi Chef,6.48
+2025-02-03,Nina,Kitchen,6.85
+2025-02-03,Owen,Kitchen,6.5
+2025-02-04,Alex,Server,7.15
+2025-02-04,Jordan,Server,5.72
+2025-02-04,Mia,Server,6.69
+2025-02-04,Sam,Server,6.67
+2025-02-04,Taylor,Server,6.64
+2025-02-04,Chris,Server,5.33
+2025-02-04,Ken,Sushi Chef,5.99
+2025-02-04,Leo,Sushi Chef,7.06
+2025-02-04,Nina,Kitchen,6.54
+2025-02-04,Owen,Kitchen,6.68
+2025-02-05,Alex,Server,6.29
+2025-02-05,Jordan,Server,5.97
+2025-02-05,Mia,Server,5.89
+2025-02-05,Sam,Server,6.5
+2025-02-05,Taylor,Server,5.55
+2025-02-05,Chris,Server,6.25
+2025-02-05,Ken,Sushi Chef,6.67
+2025-02-05,Leo,Sushi Chef,6.99
+2025-02-05,Nina,Kitchen,8.19
+2025-02-05,Owen,Kitchen,6.51
+2025-02-06,Alex,Server,6.7
+2025-02-06,Jordan,Server,6.61
+2025-02-06,Mia,Server,6.78
+2025-02-06,Sam,Server,6.39
+2025-02-06,Taylor,Server,7.22
+2025-02-06,Chris,Server,6.84
+2025-02-06,Ken,Sushi Chef,7.35
+2025-02-06,Leo,Sushi Chef,6.29
+2025-02-06,Nina,Kitchen,7.05
+2025-02-06,Owen,Kitchen,6.75
+2025-02-07,Alex,Server,6.07
+2025-02-07,Jordan,Server,6.19
+2025-02-07,Mia,Server,6.47
+2025-02-07,Sam,Server,6.73
+2025-02-07,Taylor,Server,6.99
+2025-02-07,Chris,Server,6.97
+2025-02-07,Ken,Sushi Chef,7.15
+2025-02-07,Leo,Sushi Chef,7.03
+2025-02-07,Nina,Kitchen,6.84
+2025-02-07,Owen,Kitchen,6.88
+2025-02-08,Alex,Server,7.61
+2025-02-08,Jordan,Server,7.79
+2025-02-08,Mia,Server,8.18
+2025-02-08,Sam,Server,8.77
+2025-02-08,Taylor,Server,7.93
+2025-02-08,Chris,Server,7.6
+2025-02-08,Ken,Sushi Chef,8.98
+2025-02-08,Leo,Sushi Chef,7.5
+2025-02-08,Nina,Kitchen,9.02
+2025-02-08,Owen,Kitchen,7.78
+2025-02-09,Alex,Server,8.33
+2025-02-09,Jordan,Server,7.76
+2025-02-09,Mia,Server,8.16
+2025-02-09,Sam,Server,9.04
+2025-02-09,Taylor,Server,7.58
+2025-02-09,Chris,Server,7.5
+2025-02-09,Ken,Sushi Chef,8.54
+2025-02-09,Leo,Sushi Chef,9.26
+2025-02-09,Nina,Kitchen,8.59
+2025-02-09,Owen,Kitchen,8.52
+2025-02-10,Alex,Server,6.58
+2025-02-10,Jordan,Server,6.0
+2025-02-10,Mia,Server,6.59
+2025-02-10,Sam,Server,6.3
+2025-02-10,Taylor,Server,7.16
+2025-02-10,Chris,Server,6.9
+2025-02-10,Ken,Sushi Chef,6.34
+2025-02-10,Leo,Sushi Chef,6.86
+2025-02-10,Nina,Kitchen,7.26
+2025-02-10,Owen,Kitchen,6.51
+2025-02-11,Alex,Server,5.96
+2025-02-11,Jordan,Server,6.27
+2025-02-11,Mia,Server,
+2025-02-11,Sam,Server,7.02
+2025-02-11,Taylor,Server,6.62
+2025-02-11,Chris,Server,7.73
+2025-02-11,Ken,Sushi Chef,6.66
+2025-02-11,Leo,Sushi Chef,7.37
+2025-02-11,Nina,Kitchen,6.45
+2025-02-11,Owen,Kitchen,7.81
+2025-02-12,Alex,Server,7.18
+2025-02-12,Jordan,Server,6.86
+2025-02-12,Mia,Server,5.63
+2025-02-12,Sam,Server,6.85
+2025-02-12,Taylor,Server,6.09
+2025-02-12,Chris,Server,6.73
+2025-02-12,Ken,Sushi Chef,6.27
+2025-02-12,Leo,Sushi Chef,7.13
+2025-02-12,Nina,Kitchen,6.82
+2025-02-12,Owen,Kitchen,6.61
+2025-02-13,Alex,Server,6.8
+2025-02-13,Jordan,Server,6.47
+2025-02-13,Mia,Server,6.4
+2025-02-13,Sam,Server,6.87
+2025-02-13,Taylor,Server,7.45
+2025-02-13,Chris,Server,6.64
+2025-02-13,Ken,Sushi Chef,6.1
+2025-02-13,Leo,Sushi Chef,6.22
+2025-02-13,Nina,Kitchen,7.03
+2025-02-13,Owen,Kitchen,7.51
+2025-02-14,Alex,Server,6.57
+2025-02-14,Jordan,Server,6.76
+2025-02-14,Mia,Server,6.47
+2025-02-14,Sam,Server,6.98
+2025-02-14,Taylor,Server,6.81
+2025-02-14,Chris,Server,5.99
+2025-02-14,Ken,Sushi Chef,7.22
+2025-02-14,Leo,Sushi Chef,6.23
+2025-02-14,Nina,Kitchen,7.22
+2025-02-14,Owen,Kitchen,6.86
+2025-02-15,Alex,Server,
+2025-02-15,Jordan,Server,8.16
+2025-02-15,Mia,Server,8.14
+2025-02-15,Sam,Server,8.71
+2025-02-15,Taylor,Server,8.02
+2025-02-15,Chris,Server,8.09
+2025-02-15,Ken,Sushi Chef,9.16
+2025-02-15,Leo,Sushi Chef,9.45
+2025-02-15,Nina,Kitchen,8.49
+2025-02-15,Owen,Kitchen,8.24
+2025-02-16,Alex,Server,7.77
+2025-02-16,Jordan,Server,8.23
+2025-02-16,Mia,Server,7.9
+2025-02-16,Sam,Server,7.13
+2025-02-16,Taylor,Server,8.56
+2025-02-16,Chris,Server,8.41
+2025-02-16,Ken,Sushi Chef,9.07
+2025-02-16,Leo,Sushi Chef,9.17
+2025-02-16,Nina,Kitchen,8.6
+2025-02-16,Owen,Kitchen,8.63
+2025-02-17,Alex,Server,7.0
+2025-02-17,Jordan,Server,5.89
+2025-02-17,Mia,Server,6.32
+2025-02-17,Sam,Server,6.47
+2025-02-17,Taylor,Server,6.96
+2025-02-17,Chris,Server,6.23
+2025-02-17,Ken,Sushi Chef,6.64
+2025-02-17,Leo,Sushi Chef,6.78
+2025-02-17,Nina,Kitchen,7.23
+2025-02-17,Owen,Kitchen,6.97
+2025-02-18,Alex,Server,5.77
+2025-02-18,Jordan,Server,5.87
+2025-02-18,Mia,Server,6.57
+2025-02-18,Sam,Server,6.58
+2025-02-18,Taylor,Server,6.51
+2025-02-18,Chris,Server,6.26
+2025-02-18,Ken,Sushi Chef,7.39
+2025-02-18,Leo,Sushi Chef,7.18
+2025-02-18,Nina,Kitchen,7.17
+2025-02-18,Owen,Kitchen,7.19
+2025-02-19,Alex,Server,7.3
+2025-02-19,Jordan,Server,5.99
+2025-02-19,Mia,Server,6.29
+2025-02-19,Sam,Server,6.33
+2025-02-19,Taylor,Server,7.13
+2025-02-19,Chris,Server,6.31
+2025-02-19,Ken,Sushi Chef,6.6
+2025-02-19,Leo,Sushi Chef,6.95
+2025-02-19,Nina,Kitchen,7.05
+2025-02-19,Owen,Kitchen,7.6
+2025-02-20,Alex,Server,6.31
+2025-02-20,Jordan,Server,6.16
+2025-02-20,Mia,Server,6.05
+2025-02-20,Sam,Server,6.33
+2025-02-20,Taylor,Server,7.78
+2025-02-20,Chris,Server,6.69
+2025-02-20,Ken,Sushi Chef,7.3
+2025-02-20,Leo,Sushi Chef,7.0
+2025-02-20,Nina,Kitchen,7.07
+2025-02-20,Owen,Kitchen,7.39
+2025-02-21,Alex,Server,6.78
+2025-02-21,Jordan,Server,6.67
+2025-02-21,Mia,Server,6.51
+2025-02-21,Sam,Server,6.32
+2025-02-21,Taylor,Server,
+2025-02-21,Chris,Server,6.54
+2025-02-21,Ken,Sushi Chef,8.07
+2025-02-21,Leo,Sushi Chef,7.53
+2025-02-21,Nina,Kitchen,6.66
+2025-02-21,Owen,Kitchen,6.42
+2025-02-22,Alex,Server,7.8
+2025-02-22,Jordan,Server,7.46
+2025-02-22,Mia,Server,7.77
+2025-02-22,Sam,Server,7.52
+2025-02-22,Taylor,Server,7.84
+2025-02-22,Chris,Server,7.84
+2025-02-22,Ken,Sushi Chef,8.57
+2025-02-22,Leo,Sushi Chef,8.4
+2025-02-22,Nina,Kitchen,8.05
+2025-02-22,Owen,Kitchen,9.11
+2025-02-23,Alex,Server,8.2
+2025-02-23,Jordan,Server,7.73
+2025-02-23,Mia,Server,7.56
+2025-02-23,Sam,Server,7.27
+2025-02-23,Taylor,Server,7.23
+2025-02-23,Chris,Server,8.52
+2025-02-23,Ken,Sushi Chef,8.97
+2025-02-23,Leo,Sushi Chef,8.21
+2025-02-23,Nina,Kitchen,9.18
+2025-02-23,Owen,Kitchen,8.81
+2025-02-24,Alex,Server,6.6
+2025-02-24,Jordan,Server,6.93
+2025-02-24,Mia,Server,6.81
+2025-02-24,Sam,Server,6.58
+2025-02-24,Taylor,Server,6.38
+2025-02-24,Chris,Server,6.45
+2025-02-24,Ken,Sushi Chef,6.2
+2025-02-24,Leo,Sushi Chef,6.6
+2025-02-24,Nina,Kitchen,7.9
+2025-02-24,Owen,Kitchen,6.59
+2025-02-25,Alex,Server,5.57
+2025-02-25,Jordan,Server,6.95
+2025-02-25,Mia,Server,6.62
+2025-02-25,Sam,Server,6.65
+2025-02-25,Taylor,Server,6.42
+2025-02-25,Chris,Server,6.96
+2025-02-25,Ken,Sushi Chef,7.76
+2025-02-25,Leo,Sushi Chef,6.74
+2025-02-25,Nina,Kitchen,7.32
+2025-02-25,Owen,Kitchen,7.56
+2025-02-26,Alex,Server,6.21
+2025-02-26,Jordan,Server,7.25
+2025-02-26,Mia,Server,7.06
+2025-02-26,Sam,Server,5.88
+2025-02-26,Taylor,Server,7.3
+2025-02-26,Chris,Server,5.91
+2025-02-26,Ken,Sushi Chef,6.66
+2025-02-26,Leo,Sushi Chef,7.34
+2025-02-26,Nina,Kitchen,7.52
+2025-02-26,Owen,Kitchen,7.05
+2025-02-27,Alex,Server,6.19
+2025-02-27,Jordan,Server,6.37
+2025-02-27,Mia,Server,6.31
+2025-02-27,Sam,Server,6.92
+2025-02-27,Taylor,Server,6.3
+2025-02-27,Chris,Server,6.17
+2025-02-27,Ken,Sushi Chef,6.26
+2025-02-27,Leo,Sushi Chef,6.7
+2025-02-27,Nina,Kitchen,6.94
+2025-02-27,Owen,Kitchen,6.43
+2025-02-28,Alex,Server,5.63
+2025-02-28,Jordan,Server,6.99
+2025-02-28,Mia,Server,6.0
+2025-02-28,Sam,Server,5.85
+2025-02-28,Taylor,Server,7.28
+2025-02-28,Chris,Server,6.92
+2025-02-28,Ken,Sushi Chef,7.51
+2025-02-28,Leo,Sushi Chef,7.25
+2025-02-28,Nina,Kitchen,7.66
+2025-02-28,Owen,Kitchen,7.44
+2025-03-01,Alex,Server,7.83
+2025-03-01,Jordan,Server,7.47
+2025-03-01,Mia,Server,7.36
+2025-03-01,Sam,Server,7.93
+2025-03-01,Taylor,Server,7.45
+2025-03-01,Chris,Server,7.6
+2025-03-01,Ken,Sushi Chef,8.42
+2025-03-01,Leo,Sushi Chef,9.2
+2025-03-01,Nina,Kitchen,7.74
+2025-03-01,Owen,Kitchen,8.51
+2025-03-02,Alex,Server,7.37
+2025-03-02,Jordan,Server,7.72
+2025-03-02,Mia,Server,8.46
+2025-03-02,Sam,Server,7.58
+2025-03-02,Taylor,Server,7.87
+2025-03-02,Chris,Server,8.07
+2025-03-02,Ken,Sushi Chef,8.85
+2025-03-02,Leo,Sushi Chef,8.23
+2025-03-02,Nina,Kitchen,9.13
+2025-03-02,Owen,Kitchen,8.28
+2025-03-03,Alex,Server,6.74
+2025-03-03,Jordan,Server,6.41
+2025-03-03,Mia,Server,6.87
+2025-03-03,Sam,Server,7.51
+2025-03-03,Taylor,Server,6.36
+2025-03-03,Chris,Server,6.49
+2025-03-03,Ken,Sushi Chef,6.78
+2025-03-03,Leo,Sushi Chef,6.71
+2025-03-03,Nina,Kitchen,6.65
+2025-03-03,Owen,Kitchen,6.99
+2025-03-04,Alex,Server,6.11
+2025-03-04,Jordan,Server,6.13
+2025-03-04,Mia,Server,4.92
+2025-03-04,Sam,Server,7.19
+2025-03-04,Taylor,Server,7.32
+2025-03-04,Chris,Server,6.82
+2025-03-04,Ken,Sushi Chef,6.56
+2025-03-04,Leo,Sushi Chef,6.37
+2025-03-04,Nina,Kitchen,6.22
+2025-03-04,Owen,Kitchen,7.32
+2025-03-05,Alex,Server,7.13
+2025-03-05,Jordan,Server,6.58
+2025-03-05,Mia,Server,6.93
+2025-03-05,Sam,Server,6.72
+2025-03-05,Taylor,Server,6.11
+2025-03-05,Chris,Server,7.0
+2025-03-05,Ken,Sushi Chef,7.47
+2025-03-05,Leo,Sushi Chef,6.5
+2025-03-05,Nina,Kitchen,7.4
+2025-03-05,Owen,Kitchen,6.93
+2025-03-06,Alex,Server,6.37
+2025-03-06,Jordan,Server,6.7
+2025-03-06,Mia,Server,6.68
+2025-03-06,Sam,Server,6.94
+2025-03-06,Taylor,Server,6.08
+2025-03-06,Chris,Server,6.78
+2025-03-06,Ken,Sushi Chef,6.42
+2025-03-06,Leo,Sushi Chef,6.91
+2025-03-06,Nina,Kitchen,6.94
+2025-03-06,Owen,Kitchen,7.49
+2025-03-07,Alex,Server,6.5
+2025-03-07,Jordan,Server,6.37
+2025-03-07,Mia,Server,7.21
+2025-03-07,Sam,Server,6.29
+2025-03-07,Taylor,Server,6.26
+2025-03-07,Chris,Server,5.56
+2025-03-07,Ken,Sushi Chef,6.89
+2025-03-07,Leo,Sushi Chef,6.53
+2025-03-07,Nina,Kitchen,6.87
+2025-03-07,Owen,Kitchen,7.12
+2025-03-08,Alex,Server,7.46
+2025-03-08,Jordan,Server,7.59
+2025-03-08,Mia,Server,7.2
+2025-03-08,Sam,Server,7.75
+2025-03-08,Taylor,Server,7.53
+2025-03-08,Chris,Server,9.07
+2025-03-08,Ken,Sushi Chef,9.25
+2025-03-08,Leo,Sushi Chef,9.17
+2025-03-08,Nina,Kitchen,7.85
+2025-03-08,Owen,Kitchen,8.41
+2025-03-09,Alex,Server,7.4
+2025-03-09,Jordan,Server,8.92
+2025-03-09,Mia,Server,8.42
+2025-03-09,Sam,Server,7.47
+2025-03-09,Taylor,Server,8.18
+2025-03-09,Chris,Server,7.26
+2025-03-09,Ken,Sushi Chef,8.43
+2025-03-09,Leo,Sushi Chef,8.41
+2025-03-09,Nina,Kitchen,8.87
+2025-03-09,Owen,Kitchen,8.99
+2025-03-10,Alex,Server,6.51
+2025-03-10,Jordan,Server,6.39
+2025-03-10,Mia,Server,4.88
+2025-03-10,Sam,Server,7.28
+2025-03-10,Taylor,Server,6.17
+2025-03-10,Chris,Server,6.55
+2025-03-10,Ken,Sushi Chef,8.13
+2025-03-10,Leo,Sushi Chef,6.4
+2025-03-10,Nina,Kitchen,7.01
+2025-03-10,Owen,Kitchen,7.25
+2025-03-11,Alex,Server,7.05
+2025-03-11,Jordan,Server,6.5
+2025-03-11,Mia,Server,7.09
+2025-03-11,Sam,Server,6.29
+2025-03-11,Taylor,Server,6.77
+2025-03-11,Chris,Server,6.71
+2025-03-11,Ken,Sushi Chef,6.95
+2025-03-11,Leo,Sushi Chef,7.16
+2025-03-11,Nina,Kitchen,6.56
+2025-03-11,Owen,Kitchen,6.85
+2025-03-12,Alex,Server,5.86
+2025-03-12,Jordan,Server,6.28
+2025-03-12,Mia,Server,7.07
+2025-03-12,Sam,Server,6.71
+2025-03-12,Taylor,Server,6.65
+2025-03-12,Chris,Server,5.7
+2025-03-12,Ken,Sushi Chef,7.16
+2025-03-12,Leo,Sushi Chef,6.97
+2025-03-12,Nina,Kitchen,7.27
+2025-03-12,Owen,Kitchen,7.69
+2025-03-13,Alex,Server,6.3
+2025-03-13,Jordan,Server,6.34
+2025-03-13,Mia,Server,6.96
+2025-03-13,Sam,Server,6.2
+2025-03-13,Taylor,Server,6.54
+2025-03-13,Chris,Server,5.5
+2025-03-13,Ken,Sushi Chef,6.85
+2025-03-13,Leo,Sushi Chef,7.65
+2025-03-13,Nina,Kitchen,7.17
+2025-03-13,Owen,Kitchen,7.45
+2025-03-14,Alex,Server,6.98
+2025-03-14,Jordan,Server,7.17
+2025-03-14,Mia,Server,6.33
+2025-03-14,Sam,Server,6.97
+2025-03-14,Taylor,Server,7.62
+2025-03-14,Chris,Server,6.49
+2025-03-14,Ken,Sushi Chef,6.34
+2025-03-14,Leo,Sushi Chef,6.7
+2025-03-14,Nina,Kitchen,7.23
+2025-03-14,Owen,Kitchen,6.17
+2025-03-15,Alex,Server,7.62
+2025-03-15,Jordan,Server,7.84
+2025-03-15,Mia,Server,8.05
+2025-03-15,Sam,Server,8.9
+2025-03-15,Taylor,Server,8.34
+2025-03-15,Chris,Server,7.44
+2025-03-15,Ken,Sushi Chef,10.43
+2025-03-15,Leo,Sushi Chef,8.49
+2025-03-15,Nina,Kitchen,7.66
+2025-03-15,Owen,Kitchen,7.98
+2025-03-16,Alex,Server,7.48
+2025-03-16,Jordan,Server,7.33
+2025-03-16,Mia,Server,8.26
+2025-03-16,Sam,Server,
+2025-03-16,Taylor,Server,8.49
+2025-03-16,Chris,Server,8.41
+2025-03-16,Ken,Sushi Chef,8.27
+2025-03-16,Leo,Sushi Chef,8.96
+2025-03-16,Nina,Kitchen,7.95
+2025-03-16,Owen,Kitchen,8.08
+2025-03-17,Alex,Server,6.77
+2025-03-17,Jordan,Server,6.4
+2025-03-17,Mia,Server,6.19
+2025-03-17,Sam,Server,6.44
+2025-03-17,Taylor,Server,7.16
+2025-03-17,Chris,Server,7.14
+2025-03-17,Ken,Sushi Chef,7.21
+2025-03-17,Leo,Sushi Chef,6.82
+2025-03-17,Nina,Kitchen,7.26
+2025-03-17,Owen,Kitchen,6.57
+2025-03-18,Alex,Server,7.08
+2025-03-18,Jordan,Server,6.98
+2025-03-18,Mia,Server,7.47
+2025-03-18,Sam,Server,6.1
+2025-03-18,Taylor,Server,6.04
+2025-03-18,Chris,Server,6.78
+2025-03-18,Ken,Sushi Chef,6.86
+2025-03-18,Leo,Sushi Chef,7.5
+2025-03-18,Nina,Kitchen,7.66
+2025-03-18,Owen,Kitchen,7.85
+2025-03-19,Alex,Server,6.53
+2025-03-19,Jordan,Server,6.94
+2025-03-19,Mia,Server,6.24
+2025-03-19,Sam,Server,6.61
+2025-03-19,Taylor,Server,6.47
+2025-03-19,Chris,Server,6.45
+2025-03-19,Ken,Sushi Chef,7.91
+2025-03-19,Leo,Sushi Chef,6.33
+2025-03-19,Nina,Kitchen,7.0
+2025-03-19,Owen,Kitchen,7.03
+2025-03-20,Alex,Server,6.82
+2025-03-20,Jordan,Server,5.95
+2025-03-20,Mia,Server,6.35
+2025-03-20,Sam,Server,6.2
+2025-03-20,Taylor,Server,5.37
+2025-03-20,Chris,Server,7.08
+2025-03-20,Ken,Sushi Chef,6.27
+2025-03-20,Leo,Sushi Chef,6.2
+2025-03-20,Nina,Kitchen,7.47
+2025-03-20,Owen,Kitchen,6.83
+2025-03-21,Alex,Server,6.35
+2025-03-21,Jordan,Server,6.36
+2025-03-21,Mia,Server,7.04
+2025-03-21,Sam,Server,6.22
+2025-03-21,Taylor,Server,6.8
+2025-03-21,Chris,Server,5.93
+2025-03-21,Ken,Sushi Chef,7.17
+2025-03-21,Leo,Sushi Chef,7.45
+2025-03-21,Nina,Kitchen,7.7
+2025-03-21,Owen,Kitchen,6.23
+2025-03-22,Alex,Server,7.85
+2025-03-22,Jordan,Server,8.8
+2025-03-22,Mia,Server,8.46
+2025-03-22,Sam,Server,7.9
+2025-03-22,Taylor,Server,8.0
+2025-03-22,Chris,Server,8.15
+2025-03-22,Ken,Sushi Chef,8.31
+2025-03-22,Leo,Sushi Chef,8.77
+2025-03-22,Nina,Kitchen,8.75
+2025-03-22,Owen,Kitchen,7.94
+2025-03-23,Alex,Server,7.76
+2025-03-23,Jordan,Server,7.77
+2025-03-23,Mia,Server,7.87
+2025-03-23,Sam,Server,8.13
+2025-03-23,Taylor,Server,8.09
+2025-03-23,Chris,Server,7.64
+2025-03-23,Ken,Sushi Chef,9.17
+2025-03-23,Leo,Sushi Chef,8.5
+2025-03-23,Nina,Kitchen,9.23
+2025-03-23,Owen,Kitchen,9.22
+2025-03-24,Alex,Server,5.97
+2025-03-24,Jordan,Server,6.25
+2025-03-24,Mia,Server,6.29
+2025-03-24,Sam,Server,6.66
+2025-03-24,Taylor,Server,6.86
+2025-03-24,Chris,Server,6.57
+2025-03-24,Ken,Sushi Chef,6.72
+2025-03-24,Leo,Sushi Chef,7.83
+2025-03-24,Nina,Kitchen,6.78
+2025-03-24,Owen,Kitchen,7.37
+2025-03-25,Alex,Server,6.48
+2025-03-25,Jordan,Server,6.47
+2025-03-25,Mia,Server,6.84
+2025-03-25,Sam,Server,7.27
+2025-03-25,Taylor,Server,6.65
+2025-03-25,Chris,Server,6.26
+2025-03-25,Ken,Sushi Chef,7.74
+2025-03-25,Leo,Sushi Chef,7.25
+2025-03-25,Nina,Kitchen,7.09
+2025-03-25,Owen,Kitchen,7.51
+2025-03-26,Alex,Server,6.66
+2025-03-26,Jordan,Server,7.73
+2025-03-26,Mia,Server,6.5
+2025-03-26,Sam,Server,7.07
+2025-03-26,Taylor,Server,6.72
+2025-03-26,Chris,Server,6.72
+2025-03-26,Ken,Sushi Chef,6.82
+2025-03-26,Leo,Sushi Chef,6.82
+2025-03-26,Nina,Kitchen,7.25
+2025-03-26,Owen,Kitchen,6.57
+2025-03-27,Alex,Server,6.21
+2025-03-27,Jordan,Server,6.51
+2025-03-27,Mia,Server,7.12
+2025-03-27,Sam,Server,6.54
+2025-03-27,Taylor,Server,6.53
+2025-03-27,Chris,Server,5.97
+2025-03-27,Ken,Sushi Chef,7.85
+2025-03-27,Leo,Sushi Chef,7.55
+2025-03-27,Nina,Kitchen,7.61
+2025-03-27,Owen,Kitchen,6.27
+2025-03-28,Alex,Server,6.68
+2025-03-28,Jordan,Server,6.03
+2025-03-28,Mia,Server,6.89
+2025-03-28,Sam,Server,6.66
+2025-03-28,Taylor,Server,6.76
+2025-03-28,Chris,Server,6.14
+2025-03-28,Ken,Sushi Chef,6.48
+2025-03-28,Leo,Sushi Chef,6.68
+2025-03-28,Nina,Kitchen,7.15
+2025-03-28,Owen,Kitchen,6.88
+2025-03-29,Alex,Server,8.13
+2025-03-29,Jordan,Server,7.49
+2025-03-29,Mia,Server,8.0
+2025-03-29,Sam,Server,8.7
+2025-03-29,Taylor,Server,8.17
+2025-03-29,Chris,Server,8.2
+2025-03-29,Ken,Sushi Chef,8.7
+2025-03-29,Leo,Sushi Chef,8.24
+2025-03-29,Nina,Kitchen,9.32
+2025-03-29,Owen,Kitchen,8.68
+2025-03-30,Alex,Server,8.09
+2025-03-30,Jordan,Server,8.34
+2025-03-30,Mia,Server,8.47
+2025-03-30,Sam,Server,7.38
+2025-03-30,Taylor,Server,8.03
+2025-03-30,Chris,Server,9.12
+2025-03-30,Ken,Sushi Chef,9.33
+2025-03-30,Leo,Sushi Chef,8.45
+2025-03-30,Nina,Kitchen,8.86
+2025-03-30,Owen,Kitchen,8.34
+2025-03-31,Alex,Server,6.68
+2025-03-31,Jordan,Server,6.27
+2025-03-31,Mia,Server,6.26
+2025-03-31,Sam,Server,6.2
+2025-03-31,Taylor,Server,7.34
+2025-03-31,Chris,Server,6.26
+2025-03-31,Ken,Sushi Chef,7.57
+2025-03-31,Leo,Sushi Chef,6.78
+2025-03-31,Nina,Kitchen,6.73
+2025-03-31,Owen,Kitchen,7.19
+2025-04-01,Alex,Server,5.85
+2025-04-01,Jordan,Server,6.83
+2025-04-01,Mia,Server,6.43
+2025-04-01,Sam,Server,6.22
+2025-04-01,Taylor,Server,
+2025-04-01,Chris,Server,7.49
+2025-04-01,Ken,Sushi Chef,6.98
+2025-04-01,Leo,Sushi Chef,6.96
+2025-04-01,Nina,Kitchen,7.44
+2025-04-01,Owen,Kitchen,6.58
+2025-04-02,Alex,Server,7.07
+2025-04-02,Jordan,Server,6.48
+2025-04-02,Mia,Server,5.81
+2025-04-02,Sam,Server,6.23
+2025-04-02,Taylor,Server,5.95
+2025-04-02,Chris,Server,6.54
+2025-04-02,Ken,Sushi Chef,6.6
+2025-04-02,Leo,Sushi Chef,6.55
+2025-04-02,Nina,Kitchen,7.15
+2025-04-02,Owen,Kitchen,7.02
+2025-04-03,Alex,Server,7.1
+2025-04-03,Jordan,Server,7.08
+2025-04-03,Mia,Server,6.53
+2025-04-03,Sam,Server,
+2025-04-03,Taylor,Server,5.8
+2025-04-03,Chris,Server,6.85
+2025-04-03,Ken,Sushi Chef,7.21
+2025-04-03,Leo,Sushi Chef,7.48
+2025-04-03,Nina,Kitchen,6.85
+2025-04-03,Owen,Kitchen,6.85
+2025-04-04,Alex,Server,6.35
+2025-04-04,Jordan,Server,7.22
+2025-04-04,Mia,Server,6.64
+2025-04-04,Sam,Server,5.75
+2025-04-04,Taylor,Server,6.82
+2025-04-04,Chris,Server,6.27
+2025-04-04,Ken,Sushi Chef,7.54
+2025-04-04,Leo,Sushi Chef,7.27
+2025-04-04,Nina,Kitchen,7.62
+2025-04-04,Owen,Kitchen,7.52
+2025-04-05,Alex,Server,8.47
+2025-04-05,Jordan,Server,8.57
+2025-04-05,Mia,Server,8.41
+2025-04-05,Sam,Server,7.65
+2025-04-05,Taylor,Server,7.43
+2025-04-05,Chris,Server,7.58
+2025-04-05,Ken,Sushi Chef,8.87
+2025-04-05,Leo,Sushi Chef,7.39
+2025-04-05,Nina,Kitchen,8.49
+2025-04-05,Owen,Kitchen,8.37
+2025-04-06,Alex,Server,8.61
+2025-04-06,Jordan,Server,7.94
+2025-04-06,Mia,Server,7.82
+2025-04-06,Sam,Server,8.66
+2025-04-06,Taylor,Server,7.95
+2025-04-06,Chris,Server,7.87
+2025-04-06,Ken,Sushi Chef,8.26
+2025-04-06,Leo,Sushi Chef,8.64
+2025-04-06,Nina,Kitchen,8.33
+2025-04-06,Owen,Kitchen,8.34
+2025-04-07,Alex,Server,7.23
+2025-04-07,Jordan,Server,6.52
+2025-04-07,Mia,Server,6.28
+2025-04-07,Sam,Server,6.0
+2025-04-07,Taylor,Server,6.6
+2025-04-07,Chris,Server,6.22
+2025-04-07,Ken,Sushi Chef,6.82
+2025-04-07,Leo,Sushi Chef,6.57
+2025-04-07,Nina,Kitchen,7.1
+2025-04-07,Owen,Kitchen,6.35
+2025-04-08,Alex,Server,6.71
+2025-04-08,Jordan,Server,6.23
+2025-04-08,Mia,Server,6.86
+2025-04-08,Sam,Server,6.74
+2025-04-08,Taylor,Server,6.55
+2025-04-08,Chris,Server,6.92
+2025-04-08,Ken,Sushi Chef,7.78
+2025-04-08,Leo,Sushi Chef,7.63
+2025-04-08,Nina,Kitchen,6.34
+2025-04-08,Owen,Kitchen,6.7
+2025-04-09,Alex,Server,6.26
+2025-04-09,Jordan,Server,6.82
+2025-04-09,Mia,Server,6.24
+2025-04-09,Sam,Server,6.22
+2025-04-09,Taylor,Server,6.13
+2025-04-09,Chris,Server,6.65
+2025-04-09,Ken,Sushi Chef,7.32
+2025-04-09,Leo,Sushi Chef,6.39
+2025-04-09,Nina,Kitchen,6.74
+2025-04-09,Owen,Kitchen,6.05
+2025-04-10,Alex,Server,5.3
+2025-04-10,Jordan,Server,6.74
+2025-04-10,Mia,Server,6.66
+2025-04-10,Sam,Server,6.59
+2025-04-10,Taylor,Server,7.29
+2025-04-10,Chris,Server,5.66
+2025-04-10,Ken,Sushi Chef,5.96
+2025-04-10,Leo,Sushi Chef,6.44
+2025-04-10,Nina,Kitchen,5.94
+2025-04-10,Owen,Kitchen,6.69
+2025-04-11,Alex,Server,6.79
+2025-04-11,Jordan,Server,6.65
+2025-04-11,Mia,Server,7.01
+2025-04-11,Sam,Server,6.69
+2025-04-11,Taylor,Server,6.3
+2025-04-11,Chris,Server,6.24
+2025-04-11,Ken,Sushi Chef,7.22
+2025-04-11,Leo,Sushi Chef,6.23
+2025-04-11,Nina,Kitchen,5.41
+2025-04-11,Owen,Kitchen,7.2
+2025-04-12,Alex,Server,8.12
+2025-04-12,Jordan,Server,8.78
+2025-04-12,Mia,Server,8.35
+2025-04-12,Sam,Server,8.15
+2025-04-12,Taylor,Server,7.84
+2025-04-12,Chris,Server,7.59
+2025-04-12,Ken,Sushi Chef,8.36
+2025-04-12,Leo,Sushi Chef,8.98
+2025-04-12,Nina,Kitchen,8.73
+2025-04-12,Owen,Kitchen,8.97
+2025-04-13,Alex,Server,8.05
+2025-04-13,Jordan,Server,7.55
+2025-04-13,Mia,Server,8.58
+2025-04-13,Sam,Server,8.54
+2025-04-13,Taylor,Server,8.09
+2025-04-13,Chris,Server,8.28
+2025-04-13,Ken,Sushi Chef,8.75
+2025-04-13,Leo,Sushi Chef,8.27
+2025-04-13,Nina,Kitchen,8.37
+2025-04-13,Owen,Kitchen,8.05
+2025-04-14,Alex,Server,6.37
+2025-04-14,Jordan,Server,7.02
+2025-04-14,Mia,Server,6.92
+2025-04-14,Sam,Server,6.78
+2025-04-14,Taylor,Server,6.98
+2025-04-14,Chris,Server,6.32
+2025-04-14,Ken,Sushi Chef,6.41
+2025-04-14,Leo,Sushi Chef,6.92
+2025-04-14,Nina,Kitchen,6.96
+2025-04-14,Owen,Kitchen,7.34
+2025-04-15,Alex,Server,6.76
+2025-04-15,Jordan,Server,7.01
+2025-04-15,Mia,Server,5.49
+2025-04-15,Sam,Server,6.1
+2025-04-15,Taylor,Server,6.45
+2025-04-15,Chris,Server,6.74
+2025-04-15,Ken,Sushi Chef,8.05
+2025-04-15,Leo,Sushi Chef,6.51
+2025-04-15,Nina,Kitchen,6.65
+2025-04-15,Owen,Kitchen,6.79
+2025-04-16,Alex,Server,6.13
+2025-04-16,Jordan,Server,6.06
+2025-04-16,Mia,Server,6.52
+2025-04-16,Sam,Server,6.99
+2025-04-16,Taylor,Server,6.56
+2025-04-16,Chris,Server,6.07
+2025-04-16,Ken,Sushi Chef,6.9
+2025-04-16,Leo,Sushi Chef,6.48
+2025-04-16,Nina,Kitchen,7.49
+2025-04-16,Owen,Kitchen,7.74
+2025-04-17,Alex,Server,5.7
+2025-04-17,Jordan,Server,6.61
+2025-04-17,Mia,Server,6.11
+2025-04-17,Sam,Server,6.53
+2025-04-17,Taylor,Server,6.46
+2025-04-17,Chris,Server,5.83
+2025-04-17,Ken,Sushi Chef,7.6
+2025-04-17,Leo,Sushi Chef,6.92
+2025-04-17,Nina,Kitchen,6.76
+2025-04-17,Owen,Kitchen,7.06
+2025-04-18,Alex,Server,6.06
+2025-04-18,Jordan,Server,6.41
+2025-04-18,Mia,Server,5.58
+2025-04-18,Sam,Server,5.32
+2025-04-18,Taylor,Server,6.01
+2025-04-18,Chris,Server,6.23
+2025-04-18,Ken,Sushi Chef,6.12
+2025-04-18,Leo,Sushi Chef,6.75
+2025-04-18,Nina,Kitchen,6.73
+2025-04-18,Owen,Kitchen,6.97
+2025-04-19,Alex,Server,8.31
+2025-04-19,Jordan,Server,8.86
+2025-04-19,Mia,Server,8.21
+2025-04-19,Sam,Server,7.51
+2025-04-19,Taylor,Server,8.33
+2025-04-19,Chris,Server,8.7
+2025-04-19,Ken,Sushi Chef,7.94
+2025-04-19,Leo,Sushi Chef,7.97
+2025-04-19,Nina,Kitchen,7.79
+2025-04-19,Owen,Kitchen,8.22
+2025-04-20,Alex,Server,8.19
+2025-04-20,Jordan,Server,8.74
+2025-04-20,Mia,Server,8.45
+2025-04-20,Sam,Server,8.19
+2025-04-20,Taylor,Server,8.02
+2025-04-20,Chris,Server,8.2
+2025-04-20,Ken,Sushi Chef,8.73
+2025-04-20,Leo,Sushi Chef,9.15
+2025-04-20,Nina,Kitchen,8.49
+2025-04-20,Owen,Kitchen,8.63
+2025-04-21,Alex,Server,6.3
+2025-04-21,Jordan,Server,6.56
+2025-04-21,Mia,Server,6.37
+2025-04-21,Sam,Server,5.91
+2025-04-21,Taylor,Server,6.94
+2025-04-21,Chris,Server,7.24
+2025-04-21,Ken,Sushi Chef,6.98
+2025-04-21,Leo,Sushi Chef,7.17
+2025-04-21,Nina,Kitchen,7.43
+2025-04-21,Owen,Kitchen,6.93
+2025-04-22,Alex,Server,6.59
+2025-04-22,Jordan,Server,6.39
+2025-04-22,Mia,Server,6.23
+2025-04-22,Sam,Server,6.76
+2025-04-22,Taylor,Server,6.76
+2025-04-22,Chris,Server,6.96
+2025-04-22,Ken,Sushi Chef,7.0
+2025-04-22,Leo,Sushi Chef,6.4
+2025-04-22,Nina,Kitchen,7.55
+2025-04-22,Owen,Kitchen,6.63
+2025-04-23,Alex,Server,6.12
+2025-04-23,Jordan,Server,6.23
+2025-04-23,Mia,Server,5.63
+2025-04-23,Sam,Server,6.39
+2025-04-23,Taylor,Server,6.81
+2025-04-23,Chris,Server,6.28
+2025-04-23,Ken,Sushi Chef,7.67
+2025-04-23,Leo,Sushi Chef,7.64
+2025-04-23,Nina,Kitchen,7.44
+2025-04-23,Owen,Kitchen,6.03
+2025-04-24,Alex,Server,7.22
+2025-04-24,Jordan,Server,6.38
+2025-04-24,Mia,Server,7.34
+2025-04-24,Sam,Server,6.2
+2025-04-24,Taylor,Server,6.43
+2025-04-24,Chris,Server,6.54
+2025-04-24,Ken,Sushi Chef,6.53
+2025-04-24,Leo,Sushi Chef,6.19
+2025-04-24,Nina,Kitchen,5.8
+2025-04-24,Owen,Kitchen,8.48
+2025-04-25,Alex,Server,5.67
+2025-04-25,Jordan,Server,5.67
+2025-04-25,Mia,Server,6.79
+2025-04-25,Sam,Server,5.79
+2025-04-25,Taylor,Server,5.7
+2025-04-25,Chris,Server,5.06
+2025-04-25,Ken,Sushi Chef,7.15
+2025-04-25,Leo,Sushi Chef,6.46
+2025-04-25,Nina,Kitchen,7.32
+2025-04-25,Owen,Kitchen,6.96
+2025-04-26,Alex,Server,8.04
+2025-04-26,Jordan,Server,7.77
+2025-04-26,Mia,Server,7.86
+2025-04-26,Sam,Server,7.55
+2025-04-26,Taylor,Server,7.6
+2025-04-26,Chris,Server,7.45
+2025-04-26,Ken,Sushi Chef,9.26
+2025-04-26,Leo,Sushi Chef,8.3
+2025-04-26,Nina,Kitchen,7.37
+2025-04-26,Owen,Kitchen,8.63
+2025-04-27,Alex,Server,7.6
+2025-04-27,Jordan,Server,7.98
+2025-04-27,Mia,Server,7.87
+2025-04-27,Sam,Server,8.75
+2025-04-27,Taylor,Server,7.81
+2025-04-27,Chris,Server,8.41
+2025-04-27,Ken,Sushi Chef,8.86
+2025-04-27,Leo,Sushi Chef,7.82
+2025-04-27,Nina,Kitchen,8.59
+2025-04-27,Owen,Kitchen,8.12
+2025-04-28,Alex,Server,5.9
+2025-04-28,Jordan,Server,5.9
+2025-04-28,Mia,Server,6.91
+2025-04-28,Sam,Server,7.82
+2025-04-28,Taylor,Server,6.1
+2025-04-28,Chris,Server,6.61
+2025-04-28,Ken,Sushi Chef,7.16
+2025-04-28,Leo,Sushi Chef,6.74
+2025-04-28,Nina,Kitchen,7.7
+2025-04-28,Owen,Kitchen,8.1
+2025-04-29,Alex,Server,6.2
+2025-04-29,Jordan,Server,7.37
+2025-04-29,Mia,Server,6.23
+2025-04-29,Sam,Server,6.01
+2025-04-29,Taylor,Server,6.43
+2025-04-29,Chris,Server,6.93
+2025-04-29,Ken,Sushi Chef,6.95
+2025-04-29,Leo,Sushi Chef,7.37
+2025-04-29,Nina,Kitchen,7.11
+2025-04-29,Owen,Kitchen,7.68
+2025-04-30,Alex,Server,6.77
+2025-04-30,Jordan,Server,7.27
+2025-04-30,Mia,Server,6.07
+2025-04-30,Sam,Server,6.4
+2025-04-30,Taylor,Server,6.5
+2025-04-30,Chris,Server,6.07
+2025-04-30,Ken,Sushi Chef,6.5
+2025-04-30,Leo,Sushi Chef,7.19
+2025-04-30,Nina,Kitchen,7.33
+2025-04-30,Owen,Kitchen,7.06
+2025-05-01,Alex,Server,7.03
+2025-05-01,Jordan,Server,5.95
+2025-05-01,Mia,Server,6.3
+2025-05-01,Sam,Server,5.91
+2025-05-01,Taylor,Server,6.57
+2025-05-01,Chris,Server,6.74
+2025-05-01,Ken,Sushi Chef,7.67
+2025-05-01,Leo,Sushi Chef,6.41
+2025-05-01,Nina,Kitchen,7.19
+2025-05-01,Owen,Kitchen,7.72
+2025-05-02,Alex,Server,6.0
+2025-05-02,Jordan,Server,5.88
+2025-05-02,Mia,Server,5.76
+2025-05-02,Sam,Server,6.81
+2025-05-02,Taylor,Server,6.14
+2025-05-02,Chris,Server,6.74
+2025-05-02,Ken,Sushi Chef,6.89
+2025-05-02,Leo,Sushi Chef,7.9
+2025-05-02,Nina,Kitchen,7.39
+2025-05-02,Owen,Kitchen,6.6
+2025-05-03,Alex,Server,7.85
+2025-05-03,Jordan,Server,8.39
+2025-05-03,Mia,Server,7.47
+2025-05-03,Sam,Server,8.59
+2025-05-03,Taylor,Server,7.87
+2025-05-03,Chris,Server,8.4
+2025-05-03,Ken,Sushi Chef,8.4
+2025-05-03,Leo,Sushi Chef,8.24
+2025-05-03,Nina,Kitchen,8.16
+2025-05-03,Owen,Kitchen,9.37
+2025-05-04,Alex,Server,7.85
+2025-05-04,Jordan,Server,9.54
+2025-05-04,Mia,Server,8.08
+2025-05-04,Sam,Server,7.57
+2025-05-04,Taylor,Server,7.21
+2025-05-04,Chris,Server,8.62
+2025-05-04,Ken,Sushi Chef,8.4
+2025-05-04,Leo,Sushi Chef,8.91
+2025-05-04,Nina,Kitchen,9.66
+2025-05-04,Owen,Kitchen,8.83
+2025-05-05,Alex,Server,6.67
+2025-05-05,Jordan,Server,7.11
+2025-05-05,Mia,Server,6.9
+2025-05-05,Sam,Server,5.87
+2025-05-05,Taylor,Server,7.17
+2025-05-05,Chris,Server,6.48
+2025-05-05,Ken,Sushi Chef,7.77
+2025-05-05,Leo,Sushi Chef,7.25
+2025-05-05,Nina,Kitchen,7.6
+2025-05-05,Owen,Kitchen,6.89
+2025-05-06,Alex,Server,5.74
+2025-05-06,Jordan,Server,6.78
+2025-05-06,Mia,Server,6.99
+2025-05-06,Sam,Server,6.22
+2025-05-06,Taylor,Server,6.4
+2025-05-06,Chris,Server,5.39
+2025-05-06,Ken,Sushi Chef,6.92
+2025-05-06,Leo,Sushi Chef,6.37
+2025-05-06,Nina,Kitchen,7.26
+2025-05-06,Owen,Kitchen,7.17
+2025-05-07,Alex,Server,6.51
+2025-05-07,Jordan,Server,7.16
+2025-05-07,Mia,Server,6.62
+2025-05-07,Sam,Server,6.6
+2025-05-07,Taylor,Server,6.66
+2025-05-07,Chris,Server,6.21
+2025-05-07,Ken,Sushi Chef,7.5
+2025-05-07,Leo,Sushi Chef,6.54
+2025-05-07,Nina,Kitchen,7.21
+2025-05-07,Owen,Kitchen,7.61
+2025-05-08,Alex,Server,5.99
+2025-05-08,Jordan,Server,5.83
+2025-05-08,Mia,Server,5.98
+2025-05-08,Sam,Server,7.41
+2025-05-08,Taylor,Server,6.2
+2025-05-08,Chris,Server,5.9
+2025-05-08,Ken,Sushi Chef,7.18
+2025-05-08,Leo,Sushi Chef,5.64
+2025-05-08,Nina,Kitchen,6.52
+2025-05-08,Owen,Kitchen,7.71
+2025-05-09,Alex,Server,6.02
+2025-05-09,Jordan,Server,6.37
+2025-05-09,Mia,Server,6.65
+2025-05-09,Sam,Server,6.65
+2025-05-09,Taylor,Server,6.23
+2025-05-09,Chris,Server,6.77
+2025-05-09,Ken,Sushi Chef,7.72
+2025-05-09,Leo,Sushi Chef,6.47
+2025-05-09,Nina,Kitchen,6.76
+2025-05-09,Owen,Kitchen,6.95
+2025-05-10,Alex,Server,8.35
+2025-05-10,Jordan,Server,8.02
+2025-05-10,Mia,Server,7.94
+2025-05-10,Sam,Server,7.23
+2025-05-10,Taylor,Server,7.43
+2025-05-10,Chris,Server,8.1
+2025-05-10,Ken,Sushi Chef,8.24
+2025-05-10,Leo,Sushi Chef,8.33
+2025-05-10,Nina,Kitchen,8.47
+2025-05-10,Owen,Kitchen,9.67
+2025-05-11,Alex,Server,7.75
+2025-05-11,Jordan,Server,8.69
+2025-05-11,Mia,Server,8.66
+2025-05-11,Sam,Server,8.4
+2025-05-11,Taylor,Server,7.58
+2025-05-11,Chris,Server,8.07
+2025-05-11,Ken,Sushi Chef,8.3
+2025-05-11,Leo,Sushi Chef,9.51
+2025-05-11,Nina,Kitchen,8.71
+2025-05-11,Owen,Kitchen,8.39
+2025-05-12,Alex,Server,7.39
+2025-05-12,Jordan,Server,6.32
+2025-05-12,Mia,Server,6.78
+2025-05-12,Sam,Server,6.85
+2025-05-12,Taylor,Server,6.67
+2025-05-12,Chris,Server,6.45
+2025-05-12,Ken,Sushi Chef,7.42
+2025-05-12,Leo,Sushi Chef,6.69
+2025-05-12,Nina,Kitchen,7.56
+2025-05-12,Owen,Kitchen,6.86
+2025-05-13,Alex,Server,7.17
+2025-05-13,Jordan,Server,7.02
+2025-05-13,Mia,Server,6.77
+2025-05-13,Sam,Server,6.45
+2025-05-13,Taylor,Server,7.05
+2025-05-13,Chris,Server,6.79
+2025-05-13,Ken,Sushi Chef,5.39
+2025-05-13,Leo,Sushi Chef,6.59
+2025-05-13,Nina,Kitchen,7.08
+2025-05-13,Owen,Kitchen,7.14
+2025-05-14,Alex,Server,6.85
+2025-05-14,Jordan,Server,7.27
+2025-05-14,Mia,Server,6.79
+2025-05-14,Sam,Server,5.46
+2025-05-14,Taylor,Server,6.6
+2025-05-14,Chris,Server,7.11
+2025-05-14,Ken,Sushi Chef,7.06
+2025-05-14,Leo,Sushi Chef,7.1
+2025-05-14,Nina,Kitchen,6.75
+2025-05-14,Owen,Kitchen,7.47
+2025-05-15,Alex,Server,6.32
+2025-05-15,Jordan,Server,6.8
+2025-05-15,Mia,Server,6.71
+2025-05-15,Sam,Server,6.53
+2025-05-15,Taylor,Server,6.74
+2025-05-15,Chris,Server,6.6
+2025-05-15,Ken,Sushi Chef,7.64
+2025-05-15,Leo,Sushi Chef,7.34
+2025-05-15,Nina,Kitchen,7.52
+2025-05-15,Owen,Kitchen,6.62
+2025-05-16,Alex,Server,6.09
+2025-05-16,Jordan,Server,6.53
+2025-05-16,Mia,Server,6.87
+2025-05-16,Sam,Server,6.77
+2025-05-16,Taylor,Server,6.12
+2025-05-16,Chris,Server,6.89
+2025-05-16,Ken,Sushi Chef,6.69
+2025-05-16,Leo,Sushi Chef,7.34
+2025-05-16,Nina,Kitchen,7.14
+2025-05-16,Owen,Kitchen,6.89
+2025-05-17,Alex,Server,7.73
+2025-05-17,Jordan,Server,8.07
+2025-05-17,Mia,Server,8.04
+2025-05-17,Sam,Server,7.48
+2025-05-17,Taylor,Server,8.3
+2025-05-17,Chris,Server,8.58
+2025-05-17,Ken,Sushi Chef,8.93
+2025-05-17,Leo,Sushi Chef,8.66
+2025-05-17,Nina,Kitchen,8.28
+2025-05-17,Owen,Kitchen,8.56
+2025-05-18,Alex,Server,7.93
+2025-05-18,Jordan,Server,8.06
+2025-05-18,Mia,Server,8.47
+2025-05-18,Sam,Server,7.95
+2025-05-18,Taylor,Server,7.08
+2025-05-18,Chris,Server,8.4
+2025-05-18,Ken,Sushi Chef,8.7
+2025-05-18,Leo,Sushi Chef,8.57
+2025-05-18,Nina,Kitchen,7.91
+2025-05-18,Owen,Kitchen,8.08
+2025-05-19,Alex,Server,6.14
+2025-05-19,Jordan,Server,6.21
+2025-05-19,Mia,Server,6.25
+2025-05-19,Sam,Server,5.91
+2025-05-19,Taylor,Server,7.58
+2025-05-19,Chris,Server,7.25
+2025-05-19,Ken,Sushi Chef,7.14
+2025-05-19,Leo,Sushi Chef,6.98
+2025-05-19,Nina,Kitchen,7.91
+2025-05-19,Owen,Kitchen,7.81
+2025-05-20,Alex,Server,6.13
+2025-05-20,Jordan,Server,6.62
+2025-05-20,Mia,Server,6.41
+2025-05-20,Sam,Server,6.37
+2025-05-20,Taylor,Server,6.42
+2025-05-20,Chris,Server,6.46
+2025-05-20,Ken,Sushi Chef,7.11
+2025-05-20,Leo,Sushi Chef,7.11
+2025-05-20,Nina,Kitchen,7.72
+2025-05-20,Owen,Kitchen,6.6
+2025-05-21,Alex,Server,6.98
+2025-05-21,Jordan,Server,5.96
+2025-05-21,Mia,Server,6.62
+2025-05-21,Sam,Server,7.02
+2025-05-21,Taylor,Server,6.78
+2025-05-21,Chris,Server,6.34
+2025-05-21,Ken,Sushi Chef,7.14
+2025-05-21,Leo,Sushi Chef,7.83
+2025-05-21,Nina,Kitchen,6.7
+2025-05-21,Owen,Kitchen,7.28
+2025-05-22,Alex,Server,6.98
+2025-05-22,Jordan,Server,
+2025-05-22,Mia,Server,7.37
+2025-05-22,Sam,Server,7.54
+2025-05-22,Taylor,Server,7.05
+2025-05-22,Chris,Server,7.05
+2025-05-22,Ken,Sushi Chef,6.14
+2025-05-22,Leo,Sushi Chef,6.34
+2025-05-22,Nina,Kitchen,6.96
+2025-05-22,Owen,Kitchen,6.67
+2025-05-23,Alex,Server,6.81
+2025-05-23,Jordan,Server,5.08
+2025-05-23,Mia,Server,6.81
+2025-05-23,Sam,Server,6.41
+2025-05-23,Taylor,Server,6.23
+2025-05-23,Chris,Server,7.45
+2025-05-23,Ken,Sushi Chef,6.85
+2025-05-23,Leo,Sushi Chef,6.19
+2025-05-23,Nina,Kitchen,7.23
+2025-05-23,Owen,Kitchen,7.19
+2025-05-24,Alex,Server,7.91
+2025-05-24,Jordan,Server,9.18
+2025-05-24,Mia,Server,8.11
+2025-05-24,Sam,Server,8.51
+2025-05-24,Taylor,Server,8.16
+2025-05-24,Chris,Server,8.64
+2025-05-24,Ken,Sushi Chef,8.33
+2025-05-24,Leo,Sushi Chef,7.97
+2025-05-24,Nina,Kitchen,8.88
+2025-05-24,Owen,Kitchen,8.65
+2025-05-25,Alex,Server,8.4
+2025-05-25,Jordan,Server,7.69
+2025-05-25,Mia,Server,8.24
+2025-05-25,Sam,Server,7.2
+2025-05-25,Taylor,Server,7.76
+2025-05-25,Chris,Server,7.65
+2025-05-25,Ken,Sushi Chef,8.75
+2025-05-25,Leo,Sushi Chef,8.26
+2025-05-25,Nina,Kitchen,7.81
+2025-05-25,Owen,Kitchen,8.22
+2025-05-26,Alex,Server,6.8
+2025-05-26,Jordan,Server,6.57
+2025-05-26,Mia,Server,6.13
+2025-05-26,Sam,Server,6.92
+2025-05-26,Taylor,Server,7.28
+2025-05-26,Chris,Server,6.95
+2025-05-26,Ken,Sushi Chef,5.85
+2025-05-26,Leo,Sushi Chef,7.12
+2025-05-26,Nina,Kitchen,6.93
+2025-05-26,Owen,Kitchen,5.98
+2025-05-27,Alex,Server,5.85
+2025-05-27,Jordan,Server,6.9
+2025-05-27,Mia,Server,6.59
+2025-05-27,Sam,Server,6.54
+2025-05-27,Taylor,Server,6.17
+2025-05-27,Chris,Server,7.04
+2025-05-27,Ken,Sushi Chef,6.39
+2025-05-27,Leo,Sushi Chef,6.56
+2025-05-27,Nina,Kitchen,6.84
+2025-05-27,Owen,Kitchen,6.24
+2025-05-28,Alex,Server,6.06
+2025-05-28,Jordan,Server,7.03
+2025-05-28,Mia,Server,6.08
+2025-05-28,Sam,Server,6.89
+2025-05-28,Taylor,Server,6.82
+2025-05-28,Chris,Server,6.42
+2025-05-28,Ken,Sushi Chef,6.29
+2025-05-28,Leo,Sushi Chef,7.03
+2025-05-28,Nina,Kitchen,5.94
+2025-05-28,Owen,Kitchen,6.74
+2025-05-29,Alex,Server,6.62
+2025-05-29,Jordan,Server,6.93
+2025-05-29,Mia,Server,6.42
+2025-05-29,Sam,Server,6.2
+2025-05-29,Taylor,Server,6.16
+2025-05-29,Chris,Server,6.27
+2025-05-29,Ken,Sushi Chef,7.31
+2025-05-29,Leo,Sushi Chef,7.18
+2025-05-29,Nina,Kitchen,6.99
+2025-05-29,Owen,Kitchen,7.32
+2025-05-30,Alex,Server,6.5
+2025-05-30,Jordan,Server,5.83
+2025-05-30,Mia,Server,5.94
+2025-05-30,Sam,Server,6.8
+2025-05-30,Taylor,Server,5.81
+2025-05-30,Chris,Server,6.31
+2025-05-30,Ken,Sushi Chef,6.94
+2025-05-30,Leo,Sushi Chef,6.48
+2025-05-30,Nina,Kitchen,6.17
+2025-05-30,Owen,Kitchen,6.41
+2025-05-31,Alex,Server,7.1
+2025-05-31,Jordan,Server,8.31
+2025-05-31,Mia,Server,8.2
+2025-05-31,Sam,Server,7.62
+2025-05-31,Taylor,Server,7.32
+2025-05-31,Chris,Server,8.58
+2025-05-31,Ken,Sushi Chef,8.72
+2025-05-31,Leo,Sushi Chef,8.19
+2025-05-31,Nina,Kitchen,9.09
+2025-05-31,Owen,Kitchen,8.57
+2025-06-01,Alex,Server,8.16
+2025-06-01,Jordan,Server,7.48
+2025-06-01,Mia,Server,7.24
+2025-06-01,Sam,Server,7.21
+2025-06-01,Taylor,Server,9.04
+2025-06-01,Chris,Server,7.59
+2025-06-01,Ken,Sushi Chef,8.53
+2025-06-01,Leo,Sushi Chef,8.73
+2025-06-01,Nina,Kitchen,8.49
+2025-06-01,Owen,Kitchen,8.42
+2025-06-02,Alex,Server,6.41
+2025-06-02,Jordan,Server,6.74
+2025-06-02,Mia,Server,5.98
+2025-06-02,Sam,Server,6.28
+2025-06-02,Taylor,Server,5.35
+2025-06-02,Chris,Server,5.57
+2025-06-02,Ken,Sushi Chef,6.35
+2025-06-02,Leo,Sushi Chef,7.43
+2025-06-02,Nina,Kitchen,6.86
+2025-06-02,Owen,Kitchen,7.35
+2025-06-03,Alex,Server,6.69
+2025-06-03,Jordan,Server,6.63
+2025-06-03,Mia,Server,6.03
+2025-06-03,Sam,Server,6.54
+2025-06-03,Taylor,Server,6.63
+2025-06-03,Chris,Server,7.6
+2025-06-03,Ken,Sushi Chef,6.83
+2025-06-03,Leo,Sushi Chef,7.37
+2025-06-03,Nina,Kitchen,6.94
+2025-06-03,Owen,Kitchen,6.65
+2025-06-04,Alex,Server,6.93
+2025-06-04,Jordan,Server,7.45
+2025-06-04,Mia,Server,6.63
+2025-06-04,Sam,Server,6.16
+2025-06-04,Taylor,Server,6.73
+2025-06-04,Chris,Server,6.64
+2025-06-04,Ken,Sushi Chef,8.11
+2025-06-04,Leo,Sushi Chef,7.37
+2025-06-04,Nina,Kitchen,6.53
+2025-06-04,Owen,Kitchen,7.64
+2025-06-05,Alex,Server,
+2025-06-05,Jordan,Server,6.97
+2025-06-05,Mia,Server,6.72
+2025-06-05,Sam,Server,7.0
+2025-06-05,Taylor,Server,6.72
+2025-06-05,Chris,Server,6.37
+2025-06-05,Ken,Sushi Chef,7.07
+2025-06-05,Leo,Sushi Chef,6.94
+2025-06-05,Nina,Kitchen,7.17
+2025-06-05,Owen,Kitchen,7.04
+2025-06-06,Alex,Server,6.34
+2025-06-06,Jordan,Server,6.41
+2025-06-06,Mia,Server,6.5
+2025-06-06,Sam,Server,5.61
+2025-06-06,Taylor,Server,7.01
+2025-06-06,Chris,Server,6.67
+2025-06-06,Ken,Sushi Chef,6.69
+2025-06-06,Leo,Sushi Chef,7.3
+2025-06-06,Nina,Kitchen,6.75
+2025-06-06,Owen,Kitchen,6.75
+2025-06-07,Alex,Server,8.19
+2025-06-07,Jordan,Server,8.72
+2025-06-07,Mia,Server,8.14
+2025-06-07,Sam,Server,7.61
+2025-06-07,Taylor,Server,7.82
+2025-06-07,Chris,Server,8.42
+2025-06-07,Ken,Sushi Chef,8.7
+2025-06-07,Leo,Sushi Chef,8.98
+2025-06-07,Nina,Kitchen,8.7
+2025-06-07,Owen,Kitchen,8.89
+2025-06-08,Alex,Server,9.01
+2025-06-08,Jordan,Server,7.32
+2025-06-08,Mia,Server,9.2
+2025-06-08,Sam,Server,8.47
+2025-06-08,Taylor,Server,9.31
+2025-06-08,Chris,Server,7.51
+2025-06-08,Ken,Sushi Chef,8.69
+2025-06-08,Leo,Sushi Chef,8.58
+2025-06-08,Nina,Kitchen,8.94
+2025-06-08,Owen,Kitchen,8.73
+2025-06-09,Alex,Server,6.68
+2025-06-09,Jordan,Server,6.89
+2025-06-09,Mia,Server,6.45
+2025-06-09,Sam,Server,6.24
+2025-06-09,Taylor,Server,6.73
+2025-06-09,Chris,Server,6.24
+2025-06-09,Ken,Sushi Chef,6.94
+2025-06-09,Leo,Sushi Chef,6.28
+2025-06-09,Nina,Kitchen,7.03
+2025-06-09,Owen,Kitchen,6.54
+2025-06-10,Alex,Server,6.48
+2025-06-10,Jordan,Server,5.96
+2025-06-10,Mia,Server,6.49
+2025-06-10,Sam,Server,6.95
+2025-06-10,Taylor,Server,6.2
+2025-06-10,Chris,Server,6.03
+2025-06-10,Ken,Sushi Chef,7.39
+2025-06-10,Leo,Sushi Chef,7.46
+2025-06-10,Nina,Kitchen,7.21
+2025-06-10,Owen,Kitchen,6.77
+2025-06-11,Alex,Server,6.19
+2025-06-11,Jordan,Server,6.33
+2025-06-11,Mia,Server,6.47
+2025-06-11,Sam,Server,5.64
+2025-06-11,Taylor,Server,6.01
+2025-06-11,Chris,Server,7.13
+2025-06-11,Ken,Sushi Chef,7.1
+2025-06-11,Leo,Sushi Chef,7.61
+2025-06-11,Nina,Kitchen,7.51
+2025-06-11,Owen,Kitchen,6.84
+2025-06-12,Alex,Server,6.35
+2025-06-12,Jordan,Server,6.98
+2025-06-12,Mia,Server,6.88
+2025-06-12,Sam,Server,6.99
+2025-06-12,Taylor,Server,6.49
+2025-06-12,Chris,Server,6.57
+2025-06-12,Ken,Sushi Chef,6.87
+2025-06-12,Leo,Sushi Chef,6.97
+2025-06-12,Nina,Kitchen,6.66
+2025-06-12,Owen,Kitchen,6.96
+2025-06-13,Alex,Server,6.42
+2025-06-13,Jordan,Server,6.27
+2025-06-13,Mia,Server,6.9
+2025-06-13,Sam,Server,5.79
+2025-06-13,Taylor,Server,6.67
+2025-06-13,Chris,Server,6.04
+2025-06-13,Ken,Sushi Chef,6.58
+2025-06-13,Leo,Sushi Chef,6.62
+2025-06-13,Nina,Kitchen,7.24
+2025-06-13,Owen,Kitchen,5.87
+2025-06-14,Alex,Server,8.08
+2025-06-14,Jordan,Server,8.02
+2025-06-14,Mia,Server,7.51
+2025-06-14,Sam,Server,8.09
+2025-06-14,Taylor,Server,7.39
+2025-06-14,Chris,Server,7.98
+2025-06-14,Ken,Sushi Chef,7.87
+2025-06-14,Leo,Sushi Chef,9.53
+2025-06-14,Nina,Kitchen,8.93
+2025-06-14,Owen,Kitchen,8.62
+2025-06-15,Alex,Server,7.52
+2025-06-15,Jordan,Server,7.86
+2025-06-15,Mia,Server,7.88
+2025-06-15,Sam,Server,8.12
+2025-06-15,Taylor,Server,8.2
+2025-06-15,Chris,Server,
+2025-06-15,Ken,Sushi Chef,8.67
+2025-06-15,Leo,Sushi Chef,8.42
+2025-06-15,Nina,Kitchen,8.67
+2025-06-15,Owen,Kitchen,8.18
+2025-06-16,Alex,Server,5.97
+2025-06-16,Jordan,Server,7.42
+2025-06-16,Mia,Server,6.71
+2025-06-16,Sam,Server,7.4
+2025-06-16,Taylor,Server,6.36
+2025-06-16,Chris,Server,7.71
+2025-06-16,Ken,Sushi Chef,7.04
+2025-06-16,Leo,Sushi Chef,7.57
+2025-06-16,Nina,Kitchen,7.02
+2025-06-16,Owen,Kitchen,7.08
+2025-06-17,Alex,Server,6.44
+2025-06-17,Jordan,Server,6.25
+2025-06-17,Mia,Server,6.99
+2025-06-17,Sam,Server,6.5
+2025-06-17,Taylor,Server,6.92
+2025-06-17,Chris,Server,6.95
+2025-06-17,Ken,Sushi Chef,7.71
+2025-06-17,Leo,Sushi Chef,7.21
+2025-06-17,Nina,Kitchen,6.24
+2025-06-17,Owen,Kitchen,6.84
+2025-06-18,Alex,Server,6.49
+2025-06-18,Jordan,Server,6.51
+2025-06-18,Mia,Server,7.16
+2025-06-18,Sam,Server,7.07
+2025-06-18,Taylor,Server,
+2025-06-18,Chris,Server,7.72
+2025-06-18,Ken,Sushi Chef,6.83
+2025-06-18,Leo,Sushi Chef,6.87
+2025-06-18,Nina,Kitchen,6.45
+2025-06-18,Owen,Kitchen,6.22
+2025-06-19,Alex,Server,5.91
+2025-06-19,Jordan,Server,7.01
+2025-06-19,Mia,Server,6.87
+2025-06-19,Sam,Server,6.06
+2025-06-19,Taylor,Server,6.55
+2025-06-19,Chris,Server,6.9
+2025-06-19,Ken,Sushi Chef,5.98
+2025-06-19,Leo,Sushi Chef,7.89
+2025-06-19,Nina,Kitchen,7.53
+2025-06-19,Owen,Kitchen,7.41
+2025-06-20,Alex,Server,7.1
+2025-06-20,Jordan,Server,5.48
+2025-06-20,Mia,Server,6.39
+2025-06-20,Sam,Server,7.13
+2025-06-20,Taylor,Server,6.5
+2025-06-20,Chris,Server,6.87
+2025-06-20,Ken,Sushi Chef,7.72
+2025-06-20,Leo,Sushi Chef,7.35
+2025-06-20,Nina,Kitchen,6.87
+2025-06-20,Owen,Kitchen,7.29
+2025-06-21,Alex,Server,7.16
+2025-06-21,Jordan,Server,8.25
+2025-06-21,Mia,Server,8.37
+2025-06-21,Sam,Server,8.08
+2025-06-21,Taylor,Server,8.58
+2025-06-21,Chris,Server,8.14
+2025-06-21,Ken,Sushi Chef,8.57
+2025-06-21,Leo,Sushi Chef,9.42
+2025-06-21,Nina,Kitchen,8.02
+2025-06-21,Owen,Kitchen,9.2
+2025-06-22,Alex,Server,8.66
+2025-06-22,Jordan,Server,8.42
+2025-06-22,Mia,Server,7.8
+2025-06-22,Sam,Server,8.17
+2025-06-22,Taylor,Server,7.6
+2025-06-22,Chris,Server,7.72
+2025-06-22,Ken,Sushi Chef,8.57
+2025-06-22,Leo,Sushi Chef,8.06
+2025-06-22,Nina,Kitchen,8.38
+2025-06-22,Owen,Kitchen,7.95
+2025-06-23,Alex,Server,6.83
+2025-06-23,Jordan,Server,7.32
+2025-06-23,Mia,Server,7.6
+2025-06-23,Sam,Server,5.98
+2025-06-23,Taylor,Server,6.07
+2025-06-23,Chris,Server,6.48
+2025-06-23,Ken,Sushi Chef,7.41
+2025-06-23,Leo,Sushi Chef,6.95
+2025-06-23,Nina,Kitchen,7.54
+2025-06-23,Owen,Kitchen,7.32
+2025-06-24,Alex,Server,5.67
+2025-06-24,Jordan,Server,6.58
+2025-06-24,Mia,Server,5.94
+2025-06-24,Sam,Server,6.27
+2025-06-24,Taylor,Server,6.35
+2025-06-24,Chris,Server,6.93
+2025-06-24,Ken,Sushi Chef,7.04
+2025-06-24,Leo,Sushi Chef,6.82
+2025-06-24,Nina,Kitchen,8.1
+2025-06-24,Owen,Kitchen,6.61
+2025-06-25,Alex,Server,6.7
+2025-06-25,Jordan,Server,6.89
+2025-06-25,Mia,Server,6.64
+2025-06-25,Sam,Server,6.11
+2025-06-25,Taylor,Server,6.08
+2025-06-25,Chris,Server,6.87
+2025-06-25,Ken,Sushi Chef,7.58
+2025-06-25,Leo,Sushi Chef,7.03
+2025-06-25,Nina,Kitchen,6.4
+2025-06-25,Owen,Kitchen,7.06
+2025-06-26,Alex,Server,7.31
+2025-06-26,Jordan,Server,6.05
+2025-06-26,Mia,Server,6.4
+2025-06-26,Sam,Server,6.58
+2025-06-26,Taylor,Server,7.1
+2025-06-26,Chris,Server,6.29
+2025-06-26,Ken,Sushi Chef,7.3
+2025-06-26,Leo,Sushi Chef,7.75
+2025-06-26,Nina,Kitchen,6.31
+2025-06-26,Owen,Kitchen,6.4
+2025-06-27,Alex,Server,6.51
+2025-06-27,Jordan,Server,7.05
+2025-06-27,Mia,Server,6.72
+2025-06-27,Sam,Server,7.09
+2025-06-27,Taylor,Server,5.7
+2025-06-27,Chris,Server,6.73
+2025-06-27,Ken,Sushi Chef,5.63
+2025-06-27,Leo,Sushi Chef,7.72
+2025-06-27,Nina,Kitchen,7.65
+2025-06-27,Owen,Kitchen,6.89
+2025-06-28,Alex,Server,6.9
+2025-06-28,Jordan,Server,7.95
+2025-06-28,Mia,Server,8.61
+2025-06-28,Sam,Server,8.26
+2025-06-28,Taylor,Server,8.98
+2025-06-28,Chris,Server,7.91
+2025-06-28,Ken,Sushi Chef,9.57
+2025-06-28,Leo,Sushi Chef,7.54
+2025-06-28,Nina,Kitchen,8.18
+2025-06-28,Owen,Kitchen,7.91
+2025-06-29,Alex,Server,8.42
+2025-06-29,Jordan,Server,7.45
+2025-06-29,Mia,Server,8.56
+2025-06-29,Sam,Server,8.4
+2025-06-29,Taylor,Server,8.14
+2025-06-29,Chris,Server,8.0
+2025-06-29,Ken,Sushi Chef,8.03
+2025-06-29,Leo,Sushi Chef,8.85
+2025-06-29,Nina,Kitchen,8.3
+2025-06-29,Owen,Kitchen,8.94
+2025-06-30,Alex,Server,7.3
+2025-06-30,Jordan,Server,6.4
+2025-06-30,Mia,Server,7.21
+2025-06-30,Sam,Server,6.65
+2025-06-30,Taylor,Server,6.85
+2025-06-30,Chris,Server,5.89
+2025-06-30,Ken,Sushi Chef,6.71
+2025-06-30,Leo,Sushi Chef,6.7
+2025-06-30,Nina,Kitchen,7.72
+2025-06-30,Owen,Kitchen,6.88
+2025-07-01,Alex,Server,6.87
+2025-07-01,Jordan,Server,6.51
+2025-07-01,Mia,Server,6.37
+2025-07-01,Sam,Server,5.81
+2025-07-01,Taylor,Server,5.6
+2025-07-01,Chris,Server,6.38
+2025-07-01,Ken,Sushi Chef,6.91
+2025-07-01,Leo,Sushi Chef,6.61
+2025-07-01,Nina,Kitchen,7.12
+2025-07-01,Owen,Kitchen,8.03
+2025-07-02,Alex,Server,7.3
+2025-07-02,Jordan,Server,6.54
+2025-07-02,Mia,Server,6.56
+2025-07-02,Sam,Server,6.85
+2025-07-02,Taylor,Server,6.65
+2025-07-02,Chris,Server,6.85
+2025-07-02,Ken,Sushi Chef,7.17
+2025-07-02,Leo,Sushi Chef,7.08
+2025-07-02,Nina,Kitchen,6.7
+2025-07-02,Owen,Kitchen,7.2
+2025-07-03,Alex,Server,5.39
+2025-07-03,Jordan,Server,6.66
+2025-07-03,Mia,Server,5.49
+2025-07-03,Sam,Server,
+2025-07-03,Taylor,Server,6.03
+2025-07-03,Chris,Server,7.16
+2025-07-03,Ken,Sushi Chef,7.07
+2025-07-03,Leo,Sushi Chef,7.02
+2025-07-03,Nina,Kitchen,7.23
+2025-07-03,Owen,Kitchen,6.59
+2025-07-04,Alex,Server,7.08
+2025-07-04,Jordan,Server,6.87
+2025-07-04,Mia,Server,6.25
+2025-07-04,Sam,Server,5.99
+2025-07-04,Taylor,Server,6.31
+2025-07-04,Chris,Server,6.45
+2025-07-04,Ken,Sushi Chef,6.46
+2025-07-04,Leo,Sushi Chef,6.77
+2025-07-04,Nina,Kitchen,6.7
+2025-07-04,Owen,Kitchen,6.9
+2025-07-05,Alex,Server,7.9
+2025-07-05,Jordan,Server,8.24
+2025-07-05,Mia,Server,8.02
+2025-07-05,Sam,Server,8.2
+2025-07-05,Taylor,Server,8.12
+2025-07-05,Chris,Server,7.9
+2025-07-05,Ken,Sushi Chef,8.84
+2025-07-05,Leo,Sushi Chef,7.13
+2025-07-05,Nina,Kitchen,8.32
+2025-07-05,Owen,Kitchen,8.21
+2025-07-06,Alex,Server,8.06
+2025-07-06,Jordan,Server,7.68
+2025-07-06,Mia,Server,8.27
+2025-07-06,Sam,Server,8.36
+2025-07-06,Taylor,Server,7.31
+2025-07-06,Chris,Server,8.11
+2025-07-06,Ken,Sushi Chef,7.86
+2025-07-06,Leo,Sushi Chef,8.74
+2025-07-06,Nina,Kitchen,8.27
+2025-07-06,Owen,Kitchen,8.1
+2025-07-07,Alex,Server,5.64
+2025-07-07,Jordan,Server,6.45
+2025-07-07,Mia,Server,5.92
+2025-07-07,Sam,Server,5.76
+2025-07-07,Taylor,Server,6.59
+2025-07-07,Chris,Server,6.98
+2025-07-07,Ken,Sushi Chef,7.2
+2025-07-07,Leo,Sushi Chef,6.28
+2025-07-07,Nina,Kitchen,6.93
+2025-07-07,Owen,Kitchen,7.34
+2025-07-08,Alex,Server,6.43
+2025-07-08,Jordan,Server,6.66
+2025-07-08,Mia,Server,6.28
+2025-07-08,Sam,Server,6.31
+2025-07-08,Taylor,Server,6.17
+2025-07-08,Chris,Server,6.81
+2025-07-08,Ken,Sushi Chef,7.34
+2025-07-08,Leo,Sushi Chef,6.72
+2025-07-08,Nina,Kitchen,7.38
+2025-07-08,Owen,Kitchen,6.29
+2025-07-09,Alex,Server,6.41
+2025-07-09,Jordan,Server,5.82
+2025-07-09,Mia,Server,
+2025-07-09,Sam,Server,5.82
+2025-07-09,Taylor,Server,6.17
+2025-07-09,Chris,Server,6.81
+2025-07-09,Ken,Sushi Chef,6.96
+2025-07-09,Leo,Sushi Chef,6.71
+2025-07-09,Nina,Kitchen,6.91
+2025-07-09,Owen,Kitchen,5.97
+2025-07-10,Alex,Server,6.79
+2025-07-10,Jordan,Server,5.38
+2025-07-10,Mia,Server,6.15
+2025-07-10,Sam,Server,6.46
+2025-07-10,Taylor,Server,6.72
+2025-07-10,Chris,Server,6.62
+2025-07-10,Ken,Sushi Chef,6.98
+2025-07-10,Leo,Sushi Chef,7.73
+2025-07-10,Nina,Kitchen,8.01
+2025-07-10,Owen,Kitchen,7.0
+2025-07-11,Alex,Server,6.45
+2025-07-11,Jordan,Server,6.42
+2025-07-11,Mia,Server,6.19
+2025-07-11,Sam,Server,6.69
+2025-07-11,Taylor,Server,7.14
+2025-07-11,Chris,Server,5.25
+2025-07-11,Ken,Sushi Chef,6.92
+2025-07-11,Leo,Sushi Chef,7.74
+2025-07-11,Nina,Kitchen,7.2
+2025-07-11,Owen,Kitchen,7.21
+2025-07-12,Alex,Server,7.2
+2025-07-12,Jordan,Server,8.35
+2025-07-12,Mia,Server,8.5
+2025-07-12,Sam,Server,8.1
+2025-07-12,Taylor,Server,7.67
+2025-07-12,Chris,Server,8.22
+2025-07-12,Ken,Sushi Chef,7.98
+2025-07-12,Leo,Sushi Chef,7.91
+2025-07-12,Nina,Kitchen,8.9
+2025-07-12,Owen,Kitchen,9.05
+2025-07-13,Alex,Server,7.63
+2025-07-13,Jordan,Server,7.42
+2025-07-13,Mia,Server,7.56
+2025-07-13,Sam,Server,8.1
+2025-07-13,Taylor,Server,7.42
+2025-07-13,Chris,Server,8.64
+2025-07-13,Ken,Sushi Chef,8.27
+2025-07-13,Leo,Sushi Chef,8.68
+2025-07-13,Nina,Kitchen,8.13
+2025-07-13,Owen,Kitchen,8.79
+2025-07-14,Alex,Server,6.83
+2025-07-14,Jordan,Server,5.66
+2025-07-14,Mia,Server,6.16
+2025-07-14,Sam,Server,6.42
+2025-07-14,Taylor,Server,6.24
+2025-07-14,Chris,Server,6.94
+2025-07-14,Ken,Sushi Chef,6.7
+2025-07-14,Leo,Sushi Chef,7.36
+2025-07-14,Nina,Kitchen,7.24
+2025-07-14,Owen,Kitchen,6.95
+2025-07-15,Alex,Server,6.88
+2025-07-15,Jordan,Server,5.73
+2025-07-15,Mia,Server,6.47
+2025-07-15,Sam,Server,6.11
+2025-07-15,Taylor,Server,6.45
+2025-07-15,Chris,Server,6.27
+2025-07-15,Ken,Sushi Chef,7.03
+2025-07-15,Leo,Sushi Chef,7.0
+2025-07-15,Nina,Kitchen,7.07
+2025-07-15,Owen,Kitchen,7.09
+2025-07-16,Alex,Server,6.79
+2025-07-16,Jordan,Server,5.87
+2025-07-16,Mia,Server,6.75
+2025-07-16,Sam,Server,5.74
+2025-07-16,Taylor,Server,5.1
+2025-07-16,Chris,Server,7.49
+2025-07-16,Ken,Sushi Chef,6.53
+2025-07-16,Leo,Sushi Chef,6.78
+2025-07-16,Nina,Kitchen,6.07
+2025-07-16,Owen,Kitchen,6.77
+2025-07-17,Alex,Server,6.6
+2025-07-17,Jordan,Server,6.62
+2025-07-17,Mia,Server,5.9
+2025-07-17,Sam,Server,6.28
+2025-07-17,Taylor,Server,6.68
+2025-07-17,Chris,Server,6.62
+2025-07-17,Ken,Sushi Chef,7.06
+2025-07-17,Leo,Sushi Chef,7.38
+2025-07-17,Nina,Kitchen,6.95
+2025-07-17,Owen,Kitchen,7.7
+2025-07-18,Alex,Server,6.35
+2025-07-18,Jordan,Server,6.85
+2025-07-18,Mia,Server,6.87
+2025-07-18,Sam,Server,5.68
+2025-07-18,Taylor,Server,6.72
+2025-07-18,Chris,Server,6.18
+2025-07-18,Ken,Sushi Chef,6.5
+2025-07-18,Leo,Sushi Chef,6.79
+2025-07-18,Nina,Kitchen,7.08
+2025-07-18,Owen,Kitchen,6.22
+2025-07-19,Alex,Server,8.01
+2025-07-19,Jordan,Server,7.89
+2025-07-19,Mia,Server,8.52
+2025-07-19,Sam,Server,7.68
+2025-07-19,Taylor,Server,8.59
+2025-07-19,Chris,Server,8.19
+2025-07-19,Ken,Sushi Chef,8.48
+2025-07-19,Leo,Sushi Chef,9.14
+2025-07-19,Nina,Kitchen,9.46
+2025-07-19,Owen,Kitchen,8.39
+2025-07-20,Alex,Server,7.63
+2025-07-20,Jordan,Server,8.21
+2025-07-20,Mia,Server,7.29
+2025-07-20,Sam,Server,7.35
+2025-07-20,Taylor,Server,8.65
+2025-07-20,Chris,Server,8.29
+2025-07-20,Ken,Sushi Chef,8.07
+2025-07-20,Leo,Sushi Chef,10.07
+2025-07-20,Nina,Kitchen,7.81
+2025-07-20,Owen,Kitchen,8.81
+2025-07-21,Alex,Server,6.1
+2025-07-21,Jordan,Server,7.39
+2025-07-21,Mia,Server,6.23
+2025-07-21,Sam,Server,6.36
+2025-07-21,Taylor,Server,5.6
+2025-07-21,Chris,Server,7.54
+2025-07-21,Ken,Sushi Chef,6.69
+2025-07-21,Leo,Sushi Chef,7.24
+2025-07-21,Nina,Kitchen,7.0
+2025-07-21,Owen,Kitchen,6.72
+2025-07-22,Alex,Server,5.39
+2025-07-22,Jordan,Server,6.39
+2025-07-22,Mia,Server,6.36
+2025-07-22,Sam,Server,6.66
+2025-07-22,Taylor,Server,7.57
+2025-07-22,Chris,Server,6.82
+2025-07-22,Ken,Sushi Chef,7.43
+2025-07-22,Leo,Sushi Chef,6.85
+2025-07-22,Nina,Kitchen,6.34
+2025-07-22,Owen,Kitchen,6.86
+2025-07-23,Alex,Server,6.13
+2025-07-23,Jordan,Server,6.47
+2025-07-23,Mia,Server,6.25
+2025-07-23,Sam,Server,5.66
+2025-07-23,Taylor,Server,7.13
+2025-07-23,Chris,Server,6.43
+2025-07-23,Ken,Sushi Chef,6.83
+2025-07-23,Leo,Sushi Chef,6.45
+2025-07-23,Nina,Kitchen,6.76
+2025-07-23,Owen,Kitchen,6.57
+2025-07-24,Alex,Server,5.9
+2025-07-24,Jordan,Server,6.58
+2025-07-24,Mia,Server,6.27
+2025-07-24,Sam,Server,6.87
+2025-07-24,Taylor,Server,6.32
+2025-07-24,Chris,Server,6.56
+2025-07-24,Ken,Sushi Chef,7.04
+2025-07-24,Leo,Sushi Chef,7.19
+2025-07-24,Nina,Kitchen,6.58
+2025-07-24,Owen,Kitchen,7.45
+2025-07-25,Alex,Server,5.91
+2025-07-25,Jordan,Server,6.52
+2025-07-25,Mia,Server,5.9
+2025-07-25,Sam,Server,6.44
+2025-07-25,Taylor,Server,6.95
+2025-07-25,Chris,Server,6.78
+2025-07-25,Ken,Sushi Chef,7.53
+2025-07-25,Leo,Sushi Chef,6.85
+2025-07-25,Nina,Kitchen,7.45
+2025-07-25,Owen,Kitchen,6.65
+2025-07-26,Alex,Server,7.77
+2025-07-26,Jordan,Server,8.07
+2025-07-26,Mia,Server,8.43
+2025-07-26,Sam,Server,7.73
+2025-07-26,Taylor,Server,8.35
+2025-07-26,Chris,Server,8.12
+2025-07-26,Ken,Sushi Chef,8.67
+2025-07-26,Leo,Sushi Chef,8.07
+2025-07-26,Nina,Kitchen,8.31
+2025-07-26,Owen,Kitchen,8.45
+2025-07-27,Alex,Server,8.17
+2025-07-27,Jordan,Server,7.6
+2025-07-27,Mia,Server,7.35
+2025-07-27,Sam,Server,6.93
+2025-07-27,Taylor,Server,8.37
+2025-07-27,Chris,Server,8.47
+2025-07-27,Ken,Sushi Chef,7.5
+2025-07-27,Leo,Sushi Chef,8.54
+2025-07-27,Nina,Kitchen,8.31
+2025-07-27,Owen,Kitchen,9.11
+2025-07-28,Alex,Server,6.39
+2025-07-28,Jordan,Server,6.77
+2025-07-28,Mia,Server,6.29
+2025-07-28,Sam,Server,6.16
+2025-07-28,Taylor,Server,6.88
+2025-07-28,Chris,Server,7.04
+2025-07-28,Ken,Sushi Chef,6.37
+2025-07-28,Leo,Sushi Chef,7.57
+2025-07-28,Nina,Kitchen,6.51
+2025-07-28,Owen,Kitchen,5.83
+2025-07-29,Alex,Server,6.51
+2025-07-29,Jordan,Server,6.75
+2025-07-29,Mia,Server,5.74
+2025-07-29,Sam,Server,5.51
+2025-07-29,Taylor,Server,6.25
+2025-07-29,Chris,Server,6.19
+2025-07-29,Ken,Sushi Chef,7.68
+2025-07-29,Leo,Sushi Chef,7.01
+2025-07-29,Nina,Kitchen,7.37
+2025-07-29,Owen,Kitchen,7.1
+2025-07-30,Alex,Server,7.28
+2025-07-30,Jordan,Server,6.05
+2025-07-30,Mia,Server,6.46
+2025-07-30,Sam,Server,5.72
+2025-07-30,Taylor,Server,6.91
+2025-07-30,Chris,Server,7.06
+2025-07-30,Ken,Sushi Chef,7.44
+2025-07-30,Leo,Sushi Chef,6.94
+2025-07-30,Nina,Kitchen,6.26
+2025-07-30,Owen,Kitchen,6.96
+2025-07-31,Alex,Server,6.16
+2025-07-31,Jordan,Server,6.96
+2025-07-31,Mia,Server,6.29
+2025-07-31,Sam,Server,6.28
+2025-07-31,Taylor,Server,7.59
+2025-07-31,Chris,Server,6.9
+2025-07-31,Ken,Sushi Chef,7.54
+2025-07-31,Leo,Sushi Chef,6.74
+2025-07-31,Nina,Kitchen,6.45
+2025-07-31,Owen,Kitchen,7.53
+2025-08-01,Alex,Server,7.25
+2025-08-01,Jordan,Server,5.86
+2025-08-01,Mia,Server,6.24
+2025-08-01,Sam,Server,6.04
+2025-08-01,Taylor,Server,6.74
+2025-08-01,Chris,Server,7.04
+2025-08-01,Ken,Sushi Chef,6.82
+2025-08-01,Leo,Sushi Chef,6.81
+2025-08-01,Nina,Kitchen,6.02
+2025-08-01,Owen,Kitchen,6.52
+2025-08-02,Alex,Server,8.75
+2025-08-02,Jordan,Server,8.25
+2025-08-02,Mia,Server,8.46
+2025-08-02,Sam,Server,7.82
+2025-08-02,Taylor,Server,7.86
+2025-08-02,Chris,Server,8.01
+2025-08-02,Ken,Sushi Chef,8.66
+2025-08-02,Leo,Sushi Chef,9.19
+2025-08-02,Nina,Kitchen,8.16
+2025-08-02,Owen,Kitchen,8.43
+2025-08-03,Alex,Server,7.6
+2025-08-03,Jordan,Server,7.02
+2025-08-03,Mia,Server,8.46
+2025-08-03,Sam,Server,8.87
+2025-08-03,Taylor,Server,8.38
+2025-08-03,Chris,Server,8.12
+2025-08-03,Ken,Sushi Chef,9.43
+2025-08-03,Leo,Sushi Chef,8.73
+2025-08-03,Nina,Kitchen,8.9
+2025-08-03,Owen,Kitchen,8.57
+2025-08-04,Alex,Server,6.65
+2025-08-04,Jordan,Server,6.43
+2025-08-04,Mia,Server,6.92
+2025-08-04,Sam,Server,5.95
+2025-08-04,Taylor,Server,6.71
+2025-08-04,Chris,Server,
+2025-08-04,Ken,Sushi Chef,7.25
+2025-08-04,Leo,Sushi Chef,8.2
+2025-08-04,Nina,Kitchen,7.35
+2025-08-04,Owen,Kitchen,7.59
+2025-08-05,Alex,Server,6.95
+2025-08-05,Jordan,Server,5.34
+2025-08-05,Mia,Server,6.43
+2025-08-05,Sam,Server,6.72
+2025-08-05,Taylor,Server,5.46
+2025-08-05,Chris,Server,6.36
+2025-08-05,Ken,Sushi Chef,6.96
+2025-08-05,Leo,Sushi Chef,6.38
+2025-08-05,Nina,Kitchen,6.52
+2025-08-05,Owen,Kitchen,7.67
+2025-08-06,Alex,Server,4.71
+2025-08-06,Jordan,Server,6.64
+2025-08-06,Mia,Server,7.08
+2025-08-06,Sam,Server,6.49
+2025-08-06,Taylor,Server,7.2
+2025-08-06,Chris,Server,6.29
+2025-08-06,Ken,Sushi Chef,6.55
+2025-08-06,Leo,Sushi Chef,7.0
+2025-08-06,Nina,Kitchen,6.81
+2025-08-06,Owen,Kitchen,6.71
+2025-08-07,Alex,Server,6.41
+2025-08-07,Jordan,Server,6.1
+2025-08-07,Mia,Server,6.08
+2025-08-07,Sam,Server,5.94
+2025-08-07,Taylor,Server,6.71
+2025-08-07,Chris,Server,6.0
+2025-08-07,Ken,Sushi Chef,6.38
+2025-08-07,Leo,Sushi Chef,6.46
+2025-08-07,Nina,Kitchen,7.1
+2025-08-07,Owen,Kitchen,7.33
+2025-08-08,Alex,Server,6.88
+2025-08-08,Jordan,Server,6.61
+2025-08-08,Mia,Server,6.77
+2025-08-08,Sam,Server,6.47
+2025-08-08,Taylor,Server,6.73
+2025-08-08,Chris,Server,6.72
+2025-08-08,Ken,Sushi Chef,6.64
+2025-08-08,Leo,Sushi Chef,6.46
+2025-08-08,Nina,Kitchen,7.68
+2025-08-08,Owen,Kitchen,7.06
+2025-08-09,Alex,Server,8.53
+2025-08-09,Jordan,Server,7.45
+2025-08-09,Mia,Server,7.8
+2025-08-09,Sam,Server,7.31
+2025-08-09,Taylor,Server,8.32
+2025-08-09,Chris,Server,7.69
+2025-08-09,Ken,Sushi Chef,8.22
+2025-08-09,Leo,Sushi Chef,9.48
+2025-08-09,Nina,Kitchen,8.83
+2025-08-09,Owen,Kitchen,8.83
+2025-08-10,Alex,Server,7.4
+2025-08-10,Jordan,Server,7.07
+2025-08-10,Mia,Server,8.49
+2025-08-10,Sam,Server,6.88
+2025-08-10,Taylor,Server,7.75
+2025-08-10,Chris,Server,7.59
+2025-08-10,Ken,Sushi Chef,8.04
+2025-08-10,Leo,Sushi Chef,8.28
+2025-08-10,Nina,Kitchen,7.97
+2025-08-10,Owen,Kitchen,7.89
+2025-08-11,Alex,Server,6.63
+2025-08-11,Jordan,Server,7.03
+2025-08-11,Mia,Server,5.63
+2025-08-11,Sam,Server,6.6
+2025-08-11,Taylor,Server,6.77
+2025-08-11,Chris,Server,6.72
+2025-08-11,Ken,Sushi Chef,6.89
+2025-08-11,Leo,Sushi Chef,6.7
+2025-08-11,Nina,Kitchen,7.38
+2025-08-11,Owen,Kitchen,7.17
+2025-08-12,Alex,Server,5.55
+2025-08-12,Jordan,Server,6.39
+2025-08-12,Mia,Server,6.53
+2025-08-12,Sam,Server,5.95
+2025-08-12,Taylor,Server,6.38
+2025-08-12,Chris,Server,6.75
+2025-08-12,Ken,Sushi Chef,6.59
+2025-08-12,Leo,Sushi Chef,7.12
+2025-08-12,Nina,Kitchen,6.51
+2025-08-12,Owen,Kitchen,6.38
+2025-08-13,Alex,Server,6.81
+2025-08-13,Jordan,Server,7.09
+2025-08-13,Mia,Server,5.91
+2025-08-13,Sam,Server,6.98
+2025-08-13,Taylor,Server,6.49
+2025-08-13,Chris,Server,5.39
+2025-08-13,Ken,Sushi Chef,6.28
+2025-08-13,Leo,Sushi Chef,7.3
+2025-08-13,Nina,Kitchen,6.19
+2025-08-13,Owen,Kitchen,6.69
+2025-08-14,Alex,Server,6.46
+2025-08-14,Jordan,Server,6.72
+2025-08-14,Mia,Server,6.59
+2025-08-14,Sam,Server,7.28
+2025-08-14,Taylor,Server,6.09
+2025-08-14,Chris,Server,6.55
+2025-08-14,Ken,Sushi Chef,7.23
+2025-08-14,Leo,Sushi Chef,7.36
+2025-08-14,Nina,Kitchen,7.53
+2025-08-14,Owen,Kitchen,6.78
+2025-08-15,Alex,Server,6.83
+2025-08-15,Jordan,Server,6.04
+2025-08-15,Mia,Server,6.46
+2025-08-15,Sam,Server,6.75
+2025-08-15,Taylor,Server,6.99
+2025-08-15,Chris,Server,6.79
+2025-08-15,Ken,Sushi Chef,7.05
+2025-08-15,Leo,Sushi Chef,6.96
+2025-08-15,Nina,Kitchen,7.27
+2025-08-15,Owen,Kitchen,8.09
+2025-08-16,Alex,Server,8.43
+2025-08-16,Jordan,Server,8.19
+2025-08-16,Mia,Server,7.32
+2025-08-16,Sam,Server,7.58
+2025-08-16,Taylor,Server,7.84
+2025-08-16,Chris,Server,8.46
+2025-08-16,Ken,Sushi Chef,8.03
+2025-08-16,Leo,Sushi Chef,8.82
+2025-08-16,Nina,Kitchen,8.56
+2025-08-16,Owen,Kitchen,8.68
+2025-08-17,Alex,Server,7.89
+2025-08-17,Jordan,Server,7.7
+2025-08-17,Mia,Server,7.51
+2025-08-17,Sam,Server,8.31
+2025-08-17,Taylor,Server,7.96
+2025-08-17,Chris,Server,7.46
+2025-08-17,Ken,Sushi Chef,8.61
+2025-08-17,Leo,Sushi Chef,10.21
+2025-08-17,Nina,Kitchen,8.4
+2025-08-17,Owen,Kitchen,9.33
+2025-08-18,Alex,Server,5.21
+2025-08-18,Jordan,Server,6.36
+2025-08-18,Mia,Server,6.98
+2025-08-18,Sam,Server,6.51
+2025-08-18,Taylor,Server,6.18
+2025-08-18,Chris,Server,6.49
+2025-08-18,Ken,Sushi Chef,7.49
+2025-08-18,Leo,Sushi Chef,8.07
+2025-08-18,Nina,Kitchen,7.53
+2025-08-18,Owen,Kitchen,6.75
+2025-08-19,Alex,Server,6.38
+2025-08-19,Jordan,Server,6.39
+2025-08-19,Mia,Server,6.07
+2025-08-19,Sam,Server,6.42
+2025-08-19,Taylor,Server,6.36
+2025-08-19,Chris,Server,5.9
+2025-08-19,Ken,Sushi Chef,7.42
+2025-08-19,Leo,Sushi Chef,7.21
+2025-08-19,Nina,Kitchen,6.68
+2025-08-19,Owen,Kitchen,7.07
+2025-08-20,Alex,Server,6.02
+2025-08-20,Jordan,Server,6.22
+2025-08-20,Mia,Server,6.84
+2025-08-20,Sam,Server,6.74
+2025-08-20,Taylor,Server,6.24
+2025-08-20,Chris,Server,6.66
+2025-08-20,Ken,Sushi Chef,6.96
+2025-08-20,Leo,Sushi Chef,6.5
+2025-08-20,Nina,Kitchen,6.92
+2025-08-20,Owen,Kitchen,7.22
+2025-08-21,Alex,Server,6.65
+2025-08-21,Jordan,Server,5.65
+2025-08-21,Mia,Server,6.58
+2025-08-21,Sam,Server,6.51
+2025-08-21,Taylor,Server,5.55
+2025-08-21,Chris,Server,6.1
+2025-08-21,Ken,Sushi Chef,7.25
+2025-08-21,Leo,Sushi Chef,7.69
+2025-08-21,Nina,Kitchen,6.18
+2025-08-21,Owen,Kitchen,7.49
+2025-08-22,Alex,Server,5.56
+2025-08-22,Jordan,Server,7.2
+2025-08-22,Mia,Server,6.38
+2025-08-22,Sam,Server,6.14
+2025-08-22,Taylor,Server,6.68
+2025-08-22,Chris,Server,6.02
+2025-08-22,Ken,Sushi Chef,7.26
+2025-08-22,Leo,Sushi Chef,6.94
+2025-08-22,Nina,Kitchen,5.09
+2025-08-22,Owen,Kitchen,6.59
+2025-08-23,Alex,Server,8.1
+2025-08-23,Jordan,Server,8.53
+2025-08-23,Mia,Server,8.17
+2025-08-23,Sam,Server,8.53
+2025-08-23,Taylor,Server,7.55
+2025-08-23,Chris,Server,8.36
+2025-08-23,Ken,Sushi Chef,8.87
+2025-08-23,Leo,Sushi Chef,7.68
+2025-08-23,Nina,Kitchen,9.05
+2025-08-23,Owen,Kitchen,8.66
+2025-08-24,Alex,Server,7.86
+2025-08-24,Jordan,Server,7.85
+2025-08-24,Mia,Server,7.48
+2025-08-24,Sam,Server,8.32
+2025-08-24,Taylor,Server,8.15
+2025-08-24,Chris,Server,8.29
+2025-08-24,Ken,Sushi Chef,8.54
+2025-08-24,Leo,Sushi Chef,8.6
+2025-08-24,Nina,Kitchen,8.35
+2025-08-24,Owen,Kitchen,
+2025-08-25,Alex,Server,6.8
+2025-08-25,Jordan,Server,6.59
+2025-08-25,Mia,Server,6.43
+2025-08-25,Sam,Server,5.62
+2025-08-25,Taylor,Server,5.51
+2025-08-25,Chris,Server,6.32
+2025-08-25,Ken,Sushi Chef,7.63
+2025-08-25,Leo,Sushi Chef,6.65
+2025-08-25,Nina,Kitchen,6.67
+2025-08-25,Owen,Kitchen,6.51
+2025-08-26,Alex,Server,5.85
+2025-08-26,Jordan,Server,6.04
+2025-08-26,Mia,Server,6.64
+2025-08-26,Sam,Server,6.25
+2025-08-26,Taylor,Server,6.23
+2025-08-26,Chris,Server,6.19
+2025-08-26,Ken,Sushi Chef,7.12
+2025-08-26,Leo,Sushi Chef,7.2
+2025-08-26,Nina,Kitchen,6.07
+2025-08-26,Owen,Kitchen,6.62
+2025-08-27,Alex,Server,6.46
+2025-08-27,Jordan,Server,6.72
+2025-08-27,Mia,Server,6.56
+2025-08-27,Sam,Server,6.91
+2025-08-27,Taylor,Server,5.79
+2025-08-27,Chris,Server,6.71
+2025-08-27,Ken,Sushi Chef,8.03
+2025-08-27,Leo,Sushi Chef,7.02
+2025-08-27,Nina,Kitchen,7.04
+2025-08-27,Owen,Kitchen,7.26
+2025-08-28,Alex,Server,6.23
+2025-08-28,Jordan,Server,6.03
+2025-08-28,Mia,Server,6.53
+2025-08-28,Sam,Server,5.67
+2025-08-28,Taylor,Server,6.7
+2025-08-28,Chris,Server,6.78
+2025-08-28,Ken,Sushi Chef,6.2
+2025-08-28,Leo,Sushi Chef,7.08
+2025-08-28,Nina,Kitchen,6.89
+2025-08-28,Owen,Kitchen,7.74
+2025-08-29,Alex,Server,7.15
+2025-08-29,Jordan,Server,6.92
+2025-08-29,Mia,Server,7.11
+2025-08-29,Sam,Server,6.32
+2025-08-29,Taylor,Server,6.63
+2025-08-29,Chris,Server,6.37
+2025-08-29,Ken,Sushi Chef,6.5
+2025-08-29,Leo,Sushi Chef,7.04
+2025-08-29,Nina,Kitchen,6.96
+2025-08-29,Owen,Kitchen,6.9
+2025-08-30,Alex,Server,7.97
+2025-08-30,Jordan,Server,8.03
+2025-08-30,Mia,Server,8.44
+2025-08-30,Sam,Server,7.71
+2025-08-30,Taylor,Server,7.36
+2025-08-30,Chris,Server,8.34
+2025-08-30,Ken,Sushi Chef,8.93
+2025-08-30,Leo,Sushi Chef,8.68
+2025-08-30,Nina,Kitchen,7.93
+2025-08-30,Owen,Kitchen,8.43
+2025-08-31,Alex,Server,8.14
+2025-08-31,Jordan,Server,7.47
+2025-08-31,Mia,Server,7.62
+2025-08-31,Sam,Server,7.93
+2025-08-31,Taylor,Server,8.59
+2025-08-31,Chris,Server,8.11
+2025-08-31,Ken,Sushi Chef,8.21
+2025-08-31,Leo,Sushi Chef,8.4
+2025-08-31,Nina,Kitchen,8.17
+2025-08-31,Owen,Kitchen,8.29
+2025-09-01,Alex,Server,6.86
+2025-09-01,Jordan,Server,5.54
+2025-09-01,Mia,Server,7.16
+2025-09-01,Sam,Server,7.59
+2025-09-01,Taylor,Server,6.58
+2025-09-01,Chris,Server,6.08
+2025-09-01,Ken,Sushi Chef,7.58
+2025-09-01,Leo,Sushi Chef,
+2025-09-01,Nina,Kitchen,6.74
+2025-09-01,Owen,Kitchen,6.51
+2025-09-02,Alex,Server,6.3
+2025-09-02,Jordan,Server,6.6
+2025-09-02,Mia,Server,6.95
+2025-09-02,Sam,Server,6.64
+2025-09-02,Taylor,Server,6.73
+2025-09-02,Chris,Server,6.33
+2025-09-02,Ken,Sushi Chef,7.43
+2025-09-02,Leo,Sushi Chef,6.9
+2025-09-02,Nina,Kitchen,7.92
+2025-09-02,Owen,Kitchen,6.67
+2025-09-03,Alex,Server,6.7
+2025-09-03,Jordan,Server,7.59
+2025-09-03,Mia,Server,7.02
+2025-09-03,Sam,Server,6.87
+2025-09-03,Taylor,Server,6.65
+2025-09-03,Chris,Server,6.53
+2025-09-03,Ken,Sushi Chef,6.91
+2025-09-03,Leo,Sushi Chef,6.72
+2025-09-03,Nina,Kitchen,6.23
+2025-09-03,Owen,Kitchen,7.32
+2025-09-04,Alex,Server,5.73
+2025-09-04,Jordan,Server,6.83
+2025-09-04,Mia,Server,6.35
+2025-09-04,Sam,Server,6.02
+2025-09-04,Taylor,Server,7.2
+2025-09-04,Chris,Server,5.78
+2025-09-04,Ken,Sushi Chef,6.67
+2025-09-04,Leo,Sushi Chef,6.71
+2025-09-04,Nina,Kitchen,7.07
+2025-09-04,Owen,Kitchen,6.69
+2025-09-05,Alex,Server,7.23
+2025-09-05,Jordan,Server,5.81
+2025-09-05,Mia,Server,8.54
+2025-09-05,Sam,Server,5.97
+2025-09-05,Taylor,Server,7.98
+2025-09-05,Chris,Server,7.05
+2025-09-05,Ken,Sushi Chef,6.94
+2025-09-05,Leo,Sushi Chef,7.11
+2025-09-05,Nina,Kitchen,6.81
+2025-09-05,Owen,Kitchen,7.17
+2025-09-06,Alex,Server,7.63
+2025-09-06,Jordan,Server,8.35
+2025-09-06,Mia,Server,8.09
+2025-09-06,Sam,Server,7.51
+2025-09-06,Taylor,Server,8.21
+2025-09-06,Chris,Server,8.18
+2025-09-06,Ken,Sushi Chef,8.14
+2025-09-06,Leo,Sushi Chef,8.29
+2025-09-06,Nina,Kitchen,8.76
+2025-09-06,Owen,Kitchen,9.05
+2025-09-07,Alex,Server,7.93
+2025-09-07,Jordan,Server,8.47
+2025-09-07,Mia,Server,8.58
+2025-09-07,Sam,Server,8.65
+2025-09-07,Taylor,Server,8.21
+2025-09-07,Chris,Server,7.55
+2025-09-07,Ken,Sushi Chef,8.95
+2025-09-07,Leo,Sushi Chef,8.4
+2025-09-07,Nina,Kitchen,8.75
+2025-09-07,Owen,Kitchen,8.19
+2025-09-08,Alex,Server,6.2
+2025-09-08,Jordan,Server,6.15
+2025-09-08,Mia,Server,5.84
+2025-09-08,Sam,Server,6.21
+2025-09-08,Taylor,Server,5.98
+2025-09-08,Chris,Server,6.78
+2025-09-08,Ken,Sushi Chef,6.47
+2025-09-08,Leo,Sushi Chef,6.67
+2025-09-08,Nina,Kitchen,7.0
+2025-09-08,Owen,Kitchen,7.91
+2025-09-09,Alex,Server,6.15
+2025-09-09,Jordan,Server,5.81
+2025-09-09,Mia,Server,5.84
+2025-09-09,Sam,Server,6.07
+2025-09-09,Taylor,Server,6.17
+2025-09-09,Chris,Server,7.65
+2025-09-09,Ken,Sushi Chef,7.48
+2025-09-09,Leo,Sushi Chef,6.84
+2025-09-09,Nina,Kitchen,7.93
+2025-09-09,Owen,Kitchen,6.69
+2025-09-10,Alex,Server,6.29
+2025-09-10,Jordan,Server,6.26
+2025-09-10,Mia,Server,7.01
+2025-09-10,Sam,Server,6.47
+2025-09-10,Taylor,Server,7.25
+2025-09-10,Chris,Server,6.72
+2025-09-10,Ken,Sushi Chef,7.45
+2025-09-10,Leo,Sushi Chef,6.09
+2025-09-10,Nina,Kitchen,6.15
+2025-09-10,Owen,Kitchen,6.17
+2025-09-11,Alex,Server,6.29
+2025-09-11,Jordan,Server,5.73
+2025-09-11,Mia,Server,7.12
+2025-09-11,Sam,Server,6.4
+2025-09-11,Taylor,Server,6.81
+2025-09-11,Chris,Server,6.25
+2025-09-11,Ken,Sushi Chef,7.41
+2025-09-11,Leo,Sushi Chef,6.02
+2025-09-11,Nina,Kitchen,6.98
+2025-09-11,Owen,Kitchen,7.25
+2025-09-12,Alex,Server,6.79
+2025-09-12,Jordan,Server,6.34
+2025-09-12,Mia,Server,5.64
+2025-09-12,Sam,Server,7.01
+2025-09-12,Taylor,Server,6.3
+2025-09-12,Chris,Server,6.35
+2025-09-12,Ken,Sushi Chef,8.11
+2025-09-12,Leo,Sushi Chef,7.05
+2025-09-12,Nina,Kitchen,6.74
+2025-09-12,Owen,Kitchen,6.71
+2025-09-13,Alex,Server,8.32
+2025-09-13,Jordan,Server,7.59
+2025-09-13,Mia,Server,8.26
+2025-09-13,Sam,Server,8.55
+2025-09-13,Taylor,Server,7.96
+2025-09-13,Chris,Server,8.49
+2025-09-13,Ken,Sushi Chef,8.47
+2025-09-13,Leo,Sushi Chef,8.16
+2025-09-13,Nina,Kitchen,7.67
+2025-09-13,Owen,Kitchen,8.64
+2025-09-14,Alex,Server,8.15
+2025-09-14,Jordan,Server,8.49
+2025-09-14,Mia,Server,8.44
+2025-09-14,Sam,Server,9.03
+2025-09-14,Taylor,Server,7.71
+2025-09-14,Chris,Server,8.18
+2025-09-14,Ken,Sushi Chef,8.16
+2025-09-14,Leo,Sushi Chef,8.97
+2025-09-14,Nina,Kitchen,8.04
+2025-09-14,Owen,Kitchen,8.96
+2025-09-15,Alex,Server,6.13
+2025-09-15,Jordan,Server,6.88
+2025-09-15,Mia,Server,7.1
+2025-09-15,Sam,Server,5.72
+2025-09-15,Taylor,Server,5.83
+2025-09-15,Chris,Server,6.62
+2025-09-15,Ken,Sushi Chef,7.06
+2025-09-15,Leo,Sushi Chef,6.85
+2025-09-15,Nina,Kitchen,6.76
+2025-09-15,Owen,Kitchen,6.57
+2025-09-16,Alex,Server,6.67
+2025-09-16,Jordan,Server,6.02
+2025-09-16,Mia,Server,6.68
+2025-09-16,Sam,Server,6.21
+2025-09-16,Taylor,Server,6.29
+2025-09-16,Chris,Server,7.11
+2025-09-16,Ken,Sushi Chef,7.48
+2025-09-16,Leo,Sushi Chef,6.5
+2025-09-16,Nina,Kitchen,6.56
+2025-09-16,Owen,Kitchen,7.39
+2025-09-17,Alex,Server,5.78
+2025-09-17,Jordan,Server,7.23
+2025-09-17,Mia,Server,6.57
+2025-09-17,Sam,Server,6.21
+2025-09-17,Taylor,Server,6.51
+2025-09-17,Chris,Server,7.18
+2025-09-17,Ken,Sushi Chef,5.93
+2025-09-17,Leo,Sushi Chef,7.51
+2025-09-17,Nina,Kitchen,7.6
+2025-09-17,Owen,Kitchen,6.84
+2025-09-18,Alex,Server,6.46
+2025-09-18,Jordan,Server,6.57
+2025-09-18,Mia,Server,6.87
+2025-09-18,Sam,Server,6.14
+2025-09-18,Taylor,Server,6.49
+2025-09-18,Chris,Server,6.45
+2025-09-18,Ken,Sushi Chef,7.34
+2025-09-18,Leo,Sushi Chef,8.34
+2025-09-18,Nina,Kitchen,6.63
+2025-09-18,Owen,Kitchen,7.04
+2025-09-19,Alex,Server,6.12
+2025-09-19,Jordan,Server,6.26
+2025-09-19,Mia,Server,5.96
+2025-09-19,Sam,Server,5.73
+2025-09-19,Taylor,Server,7.09
+2025-09-19,Chris,Server,6.68
+2025-09-19,Ken,Sushi Chef,7.05
+2025-09-19,Leo,Sushi Chef,6.56
+2025-09-19,Nina,Kitchen,6.96
+2025-09-19,Owen,Kitchen,6.42
+2025-09-20,Alex,Server,7.99
+2025-09-20,Jordan,Server,8.17
+2025-09-20,Mia,Server,7.73
+2025-09-20,Sam,Server,7.62
+2025-09-20,Taylor,Server,7.75
+2025-09-20,Chris,Server,8.41
+2025-09-20,Ken,Sushi Chef,8.6
+2025-09-20,Leo,Sushi Chef,7.7
+2025-09-20,Nina,Kitchen,8.86
+2025-09-20,Owen,Kitchen,8.77
+2025-09-21,Alex,Server,8.09
+2025-09-21,Jordan,Server,8.82
+2025-09-21,Mia,Server,8.01
+2025-09-21,Sam,Server,8.22
+2025-09-21,Taylor,Server,8.23
+2025-09-21,Chris,Server,8.44
+2025-09-21,Ken,Sushi Chef,8.39
+2025-09-21,Leo,Sushi Chef,8.18
+2025-09-21,Nina,Kitchen,8.99
+2025-09-21,Owen,Kitchen,8.96
+2025-09-22,Alex,Server,7.14
+2025-09-22,Jordan,Server,6.71
+2025-09-22,Mia,Server,5.68
+2025-09-22,Sam,Server,6.58
+2025-09-22,Taylor,Server,6.52
+2025-09-22,Chris,Server,7.11
+2025-09-22,Ken,Sushi Chef,7.53
+2025-09-22,Leo,Sushi Chef,7.31
+2025-09-22,Nina,Kitchen,5.96
+2025-09-22,Owen,Kitchen,6.59
+2025-09-23,Alex,Server,6.32
+2025-09-23,Jordan,Server,6.33
+2025-09-23,Mia,Server,6.58
+2025-09-23,Sam,Server,7.24
+2025-09-23,Taylor,Server,6.89
+2025-09-23,Chris,Server,6.04
+2025-09-23,Ken,Sushi Chef,6.59
+2025-09-23,Leo,Sushi Chef,6.54
+2025-09-23,Nina,Kitchen,6.94
+2025-09-23,Owen,Kitchen,7.4
+2025-09-24,Alex,Server,
+2025-09-24,Jordan,Server,6.31
+2025-09-24,Mia,Server,6.48
+2025-09-24,Sam,Server,7.34
+2025-09-24,Taylor,Server,5.76
+2025-09-24,Chris,Server,6.82
+2025-09-24,Ken,Sushi Chef,7.26
+2025-09-24,Leo,Sushi Chef,6.85
+2025-09-24,Nina,Kitchen,6.99
+2025-09-24,Owen,Kitchen,7.21
+2025-09-25,Alex,Server,6.35
+2025-09-25,Jordan,Server,6.18
+2025-09-25,Mia,Server,6.14
+2025-09-25,Sam,Server,7.43
+2025-09-25,Taylor,Server,6.28
+2025-09-25,Chris,Server,6.6
+2025-09-25,Ken,Sushi Chef,7.39
+2025-09-25,Leo,Sushi Chef,6.89
+2025-09-25,Nina,Kitchen,7.02
+2025-09-25,Owen,Kitchen,7.25
+2025-09-26,Alex,Server,6.08
+2025-09-26,Jordan,Server,5.73
+2025-09-26,Mia,Server,6.13
+2025-09-26,Sam,Server,7.36
+2025-09-26,Taylor,Server,6.21
+2025-09-26,Chris,Server,6.57
+2025-09-26,Ken,Sushi Chef,6.34
+2025-09-26,Leo,Sushi Chef,7.67
+2025-09-26,Nina,Kitchen,6.85
+2025-09-26,Owen,Kitchen,6.77
+2025-09-27,Alex,Server,7.93
+2025-09-27,Jordan,Server,9.26
+2025-09-27,Mia,Server,8.22
+2025-09-27,Sam,Server,7.92
+2025-09-27,Taylor,Server,6.56
+2025-09-27,Chris,Server,8.68
+2025-09-27,Ken,Sushi Chef,8.15
+2025-09-27,Leo,Sushi Chef,8.07
+2025-09-27,Nina,Kitchen,8.12
+2025-09-27,Owen,Kitchen,9.23
+2025-09-28,Alex,Server,7.98
+2025-09-28,Jordan,Server,7.24
+2025-09-28,Mia,Server,7.9
+2025-09-28,Sam,Server,7.58
+2025-09-28,Taylor,Server,8.18
+2025-09-28,Chris,Server,7.81
+2025-09-28,Ken,Sushi Chef,7.72
+2025-09-28,Leo,Sushi Chef,8.46
+2025-09-28,Nina,Kitchen,8.47
+2025-09-28,Owen,Kitchen,7.87
+2025-09-29,Alex,Server,5.52
+2025-09-29,Jordan,Server,6.64
+2025-09-29,Mia,Server,6.36
+2025-09-29,Sam,Server,6.39
+2025-09-29,Taylor,Server,6.87
+2025-09-29,Chris,Server,5.53
+2025-09-29,Ken,Sushi Chef,7.03
+2025-09-29,Leo,Sushi Chef,7.33
+2025-09-29,Nina,Kitchen,6.91
+2025-09-29,Owen,Kitchen,6.29
+2025-09-30,Alex,Server,6.17
+2025-09-30,Jordan,Server,6.27
+2025-09-30,Mia,Server,5.71
+2025-09-30,Sam,Server,6.69
+2025-09-30,Taylor,Server,6.5
+2025-09-30,Chris,Server,6.18
+2025-09-30,Ken,Sushi Chef,7.49
+2025-09-30,Leo,Sushi Chef,6.74
+2025-09-30,Nina,Kitchen,7.74
+2025-09-30,Owen,Kitchen,6.87
+2025-10-01,Alex,Server,6.02
+2025-10-01,Jordan,Server,6.04
+2025-10-01,Mia,Server,6.55
+2025-10-01,Sam,Server,5.96
+2025-10-01,Taylor,Server,6.57
+2025-10-01,Chris,Server,6.3
+2025-10-01,Ken,Sushi Chef,6.79
+2025-10-01,Leo,Sushi Chef,6.98
+2025-10-01,Nina,Kitchen,7.5
+2025-10-01,Owen,Kitchen,6.73
+2025-10-02,Alex,Server,6.59
+2025-10-02,Jordan,Server,6.72
+2025-10-02,Mia,Server,5.9
+2025-10-02,Sam,Server,6.76
+2025-10-02,Taylor,Server,6.91
+2025-10-02,Chris,Server,6.98
+2025-10-02,Ken,Sushi Chef,6.45
+2025-10-02,Leo,Sushi Chef,6.48
+2025-10-02,Nina,Kitchen,6.97
+2025-10-02,Owen,Kitchen,6.94
+2025-10-03,Alex,Server,6.51
+2025-10-03,Jordan,Server,6.32
+2025-10-03,Mia,Server,6.59
+2025-10-03,Sam,Server,5.22
+2025-10-03,Taylor,Server,6.83
+2025-10-03,Chris,Server,7.24
+2025-10-03,Ken,Sushi Chef,6.72
+2025-10-03,Leo,Sushi Chef,7.1
+2025-10-03,Nina,Kitchen,7.84
+2025-10-03,Owen,Kitchen,7.02
+2025-10-04,Alex,Server,8.15
+2025-10-04,Jordan,Server,8.92
+2025-10-04,Mia,Server,9.02
+2025-10-04,Sam,Server,7.47
+2025-10-04,Taylor,Server,7.79
+2025-10-04,Chris,Server,8.45
+2025-10-04,Ken,Sushi Chef,8.75
+2025-10-04,Leo,Sushi Chef,8.85
+2025-10-04,Nina,Kitchen,7.19
+2025-10-04,Owen,Kitchen,7.52
+2025-10-05,Alex,Server,8.89
+2025-10-05,Jordan,Server,8.39
+2025-10-05,Mia,Server,8.18
+2025-10-05,Sam,Server,7.38
+2025-10-05,Taylor,Server,7.79
+2025-10-05,Chris,Server,8.28
+2025-10-05,Ken,Sushi Chef,7.81
+2025-10-05,Leo,Sushi Chef,8.15
+2025-10-05,Nina,Kitchen,8.69
+2025-10-05,Owen,Kitchen,8.79
+2025-10-06,Alex,Server,6.24
+2025-10-06,Jordan,Server,6.99
+2025-10-06,Mia,Server,6.97
+2025-10-06,Sam,Server,5.6
+2025-10-06,Taylor,Server,7.32
+2025-10-06,Chris,Server,7.08
+2025-10-06,Ken,Sushi Chef,7.1
+2025-10-06,Leo,Sushi Chef,6.93
+2025-10-06,Nina,Kitchen,7.39
+2025-10-06,Owen,Kitchen,7.27
+2025-10-07,Alex,Server,6.36
+2025-10-07,Jordan,Server,7.3
+2025-10-07,Mia,Server,5.45
+2025-10-07,Sam,Server,6.17
+2025-10-07,Taylor,Server,6.72
+2025-10-07,Chris,Server,6.47
+2025-10-07,Ken,Sushi Chef,7.35
+2025-10-07,Leo,Sushi Chef,6.3
+2025-10-07,Nina,Kitchen,6.87
+2025-10-07,Owen,Kitchen,7.58
+2025-10-08,Alex,Server,5.75
+2025-10-08,Jordan,Server,6.38
+2025-10-08,Mia,Server,6.23
+2025-10-08,Sam,Server,6.68
+2025-10-08,Taylor,Server,6.7
+2025-10-08,Chris,Server,6.55
+2025-10-08,Ken,Sushi Chef,6.86
+2025-10-08,Leo,Sushi Chef,7.03
+2025-10-08,Nina,Kitchen,6.92
+2025-10-08,Owen,Kitchen,6.98
+2025-10-09,Alex,Server,7.23
+2025-10-09,Jordan,Server,5.9
+2025-10-09,Mia,Server,6.67
+2025-10-09,Sam,Server,6.03
+2025-10-09,Taylor,Server,7.48
+2025-10-09,Chris,Server,6.54
+2025-10-09,Ken,Sushi Chef,6.37
+2025-10-09,Leo,Sushi Chef,6.88
+2025-10-09,Nina,Kitchen,6.27
+2025-10-09,Owen,Kitchen,6.68
+2025-10-10,Alex,Server,6.81
+2025-10-10,Jordan,Server,7.18
+2025-10-10,Mia,Server,7.04
+2025-10-10,Sam,Server,6.45
+2025-10-10,Taylor,Server,6.79
+2025-10-10,Chris,Server,6.9
+2025-10-10,Ken,Sushi Chef,8.12
+2025-10-10,Leo,Sushi Chef,6.7
+2025-10-10,Nina,Kitchen,7.75
+2025-10-10,Owen,Kitchen,6.45
+2025-10-11,Alex,Server,8.59
+2025-10-11,Jordan,Server,7.69
+2025-10-11,Mia,Server,7.66
+2025-10-11,Sam,Server,7.86
+2025-10-11,Taylor,Server,7.61
+2025-10-11,Chris,Server,8.21
+2025-10-11,Ken,Sushi Chef,9.11
+2025-10-11,Leo,Sushi Chef,7.44
+2025-10-11,Nina,Kitchen,8.41
+2025-10-11,Owen,Kitchen,7.96
+2025-10-12,Alex,Server,8.45
+2025-10-12,Jordan,Server,8.71
+2025-10-12,Mia,Server,7.91
+2025-10-12,Sam,Server,7.65
+2025-10-12,Taylor,Server,7.19
+2025-10-12,Chris,Server,8.97
+2025-10-12,Ken,Sushi Chef,9.16
+2025-10-12,Leo,Sushi Chef,7.51
+2025-10-12,Nina,Kitchen,8.83
+2025-10-12,Owen,Kitchen,7.94
+2025-10-13,Alex,Server,6.25
+2025-10-13,Jordan,Server,5.88
+2025-10-13,Mia,Server,5.5
+2025-10-13,Sam,Server,6.48
+2025-10-13,Taylor,Server,7.45
+2025-10-13,Chris,Server,6.04
+2025-10-13,Ken,Sushi Chef,7.45
+2025-10-13,Leo,Sushi Chef,7.52
+2025-10-13,Nina,Kitchen,7.36
+2025-10-13,Owen,Kitchen,8.0
+2025-10-14,Alex,Server,6.98
+2025-10-14,Jordan,Server,7.4
+2025-10-14,Mia,Server,5.93
+2025-10-14,Sam,Server,6.87
+2025-10-14,Taylor,Server,7.26
+2025-10-14,Chris,Server,6.11
+2025-10-14,Ken,Sushi Chef,5.26
+2025-10-14,Leo,Sushi Chef,6.37
+2025-10-14,Nina,Kitchen,6.64
+2025-10-14,Owen,Kitchen,7.28
+2025-10-15,Alex,Server,6.22
+2025-10-15,Jordan,Server,6.5
+2025-10-15,Mia,Server,6.2
+2025-10-15,Sam,Server,6.44
+2025-10-15,Taylor,Server,6.47
+2025-10-15,Chris,Server,6.18
+2025-10-15,Ken,Sushi Chef,7.41
+2025-10-15,Leo,Sushi Chef,7.69
+2025-10-15,Nina,Kitchen,6.43
+2025-10-15,Owen,Kitchen,7.11
+2025-10-16,Alex,Server,5.79
+2025-10-16,Jordan,Server,5.62
+2025-10-16,Mia,Server,7.02
+2025-10-16,Sam,Server,7.5
+2025-10-16,Taylor,Server,6.34
+2025-10-16,Chris,Server,7.42
+2025-10-16,Ken,Sushi Chef,6.68
+2025-10-16,Leo,Sushi Chef,6.88
+2025-10-16,Nina,Kitchen,7.83
+2025-10-16,Owen,Kitchen,6.54
+2025-10-17,Alex,Server,6.96
+2025-10-17,Jordan,Server,6.33
+2025-10-17,Mia,Server,6.14
+2025-10-17,Sam,Server,6.25
+2025-10-17,Taylor,Server,5.42
+2025-10-17,Chris,Server,7.13
+2025-10-17,Ken,Sushi Chef,7.11
+2025-10-17,Leo,Sushi Chef,6.93
+2025-10-17,Nina,Kitchen,6.65
+2025-10-17,Owen,Kitchen,7.16
+2025-10-18,Alex,Server,8.44
+2025-10-18,Jordan,Server,7.86
+2025-10-18,Mia,Server,8.48
+2025-10-18,Sam,Server,8.14
+2025-10-18,Taylor,Server,7.95
+2025-10-18,Chris,Server,8.46
+2025-10-18,Ken,Sushi Chef,8.25
+2025-10-18,Leo,Sushi Chef,7.87
+2025-10-18,Nina,Kitchen,8.47
+2025-10-18,Owen,Kitchen,8.52
+2025-10-19,Alex,Server,7.89
+2025-10-19,Jordan,Server,8.59
+2025-10-19,Mia,Server,8.25
+2025-10-19,Sam,Server,7.94
+2025-10-19,Taylor,Server,8.0
+2025-10-19,Chris,Server,8.04
+2025-10-19,Ken,Sushi Chef,8.76
+2025-10-19,Leo,Sushi Chef,8.53
+2025-10-19,Nina,Kitchen,8.42
+2025-10-19,Owen,Kitchen,7.83
+2025-10-20,Alex,Server,6.15
+2025-10-20,Jordan,Server,6.64
+2025-10-20,Mia,Server,6.59
+2025-10-20,Sam,Server,5.76
+2025-10-20,Taylor,Server,6.22
+2025-10-20,Chris,Server,6.04
+2025-10-20,Ken,Sushi Chef,7.68
+2025-10-20,Leo,Sushi Chef,7.13
+2025-10-20,Nina,Kitchen,7.22
+2025-10-20,Owen,Kitchen,6.97
+2025-10-21,Alex,Server,6.19
+2025-10-21,Jordan,Server,6.28
+2025-10-21,Mia,Server,6.75
+2025-10-21,Sam,Server,6.37
+2025-10-21,Taylor,Server,6.75
+2025-10-21,Chris,Server,6.57
+2025-10-21,Ken,Sushi Chef,7.15
+2025-10-21,Leo,Sushi Chef,7.17
+2025-10-21,Nina,Kitchen,6.74
+2025-10-21,Owen,Kitchen,6.84
+2025-10-22,Alex,Server,6.95
+2025-10-22,Jordan,Server,7.41
+2025-10-22,Mia,Server,6.96
+2025-10-22,Sam,Server,5.11
+2025-10-22,Taylor,Server,6.12
+2025-10-22,Chris,Server,6.56
+2025-10-22,Ken,Sushi Chef,6.45
+2025-10-22,Leo,Sushi Chef,6.43
+2025-10-22,Nina,Kitchen,6.79
+2025-10-22,Owen,Kitchen,7.17
+2025-10-23,Alex,Server,6.81
+2025-10-23,Jordan,Server,6.32
+2025-10-23,Mia,Server,6.28
+2025-10-23,Sam,Server,6.08
+2025-10-23,Taylor,Server,6.75
+2025-10-23,Chris,Server,6.72
+2025-10-23,Ken,Sushi Chef,7.45
+2025-10-23,Leo,Sushi Chef,7.06
+2025-10-23,Nina,Kitchen,6.34
+2025-10-23,Owen,Kitchen,6.83
+2025-10-24,Alex,Server,6.93
+2025-10-24,Jordan,Server,5.63
+2025-10-24,Mia,Server,6.46
+2025-10-24,Sam,Server,6.64
+2025-10-24,Taylor,Server,7.5
+2025-10-24,Chris,Server,6.2
+2025-10-24,Ken,Sushi Chef,6.94
+2025-10-24,Leo,Sushi Chef,7.84
+2025-10-24,Nina,Kitchen,6.71
+2025-10-24,Owen,Kitchen,7.54
+2025-10-25,Alex,Server,8.2
+2025-10-25,Jordan,Server,7.89
+2025-10-25,Mia,Server,8.23
+2025-10-25,Sam,Server,7.93
+2025-10-25,Taylor,Server,9.13
+2025-10-25,Chris,Server,6.97
+2025-10-25,Ken,Sushi Chef,8.36
+2025-10-25,Leo,Sushi Chef,8.37
+2025-10-25,Nina,Kitchen,8.43
+2025-10-25,Owen,Kitchen,9.04
+2025-10-26,Alex,Server,7.78
+2025-10-26,Jordan,Server,8.25
+2025-10-26,Mia,Server,8.12
+2025-10-26,Sam,Server,8.42
+2025-10-26,Taylor,Server,7.93
+2025-10-26,Chris,Server,8.16
+2025-10-26,Ken,Sushi Chef,8.44
+2025-10-26,Leo,Sushi Chef,8.01
+2025-10-26,Nina,Kitchen,9.3
+2025-10-26,Owen,Kitchen,8.12
+2025-10-27,Alex,Server,6.26
+2025-10-27,Jordan,Server,6.07
+2025-10-27,Mia,Server,6.7
+2025-10-27,Sam,Server,6.26
+2025-10-27,Taylor,Server,7.26
+2025-10-27,Chris,Server,6.77
+2025-10-27,Ken,Sushi Chef,6.86
+2025-10-27,Leo,Sushi Chef,6.55
+2025-10-27,Nina,Kitchen,6.94
+2025-10-27,Owen,Kitchen,7.26
+2025-10-28,Alex,Server,6.48
+2025-10-28,Jordan,Server,6.43
+2025-10-28,Mia,Server,5.99
+2025-10-28,Sam,Server,7.62
+2025-10-28,Taylor,Server,6.4
+2025-10-28,Chris,Server,5.81
+2025-10-28,Ken,Sushi Chef,6.46
+2025-10-28,Leo,Sushi Chef,6.83
+2025-10-28,Nina,Kitchen,7.97
+2025-10-28,Owen,Kitchen,6.91
+2025-10-29,Alex,Server,6.31
+2025-10-29,Jordan,Server,6.92
+2025-10-29,Mia,Server,6.96
+2025-10-29,Sam,Server,6.83
+2025-10-29,Taylor,Server,6.6
+2025-10-29,Chris,Server,5.95
+2025-10-29,Ken,Sushi Chef,6.62
+2025-10-29,Leo,Sushi Chef,6.2
+2025-10-29,Nina,Kitchen,6.89
+2025-10-29,Owen,Kitchen,6.79
+2025-10-30,Alex,Server,6.24
+2025-10-30,Jordan,Server,6.64
+2025-10-30,Mia,Server,6.17
+2025-10-30,Sam,Server,6.33
+2025-10-30,Taylor,Server,6.26
+2025-10-30,Chris,Server,6.48
+2025-10-30,Ken,Sushi Chef,7.18
+2025-10-30,Leo,Sushi Chef,6.33
+2025-10-30,Nina,Kitchen,7.23
+2025-10-30,Owen,Kitchen,7.13
+2025-10-31,Alex,Server,6.71
+2025-10-31,Jordan,Server,6.57
+2025-10-31,Mia,Server,6.68
+2025-10-31,Sam,Server,6.29
+2025-10-31,Taylor,Server,6.72
+2025-10-31,Chris,Server,7.07
+2025-10-31,Ken,Sushi Chef,6.75
+2025-10-31,Leo,Sushi Chef,6.77
+2025-10-31,Nina,Kitchen,7.32
+2025-10-31,Owen,Kitchen,6.72
+2025-11-01,Alex,Server,7.64
+2025-11-01,Jordan,Server,8.21
+2025-11-01,Mia,Server,7.78
+2025-11-01,Sam,Server,8.61
+2025-11-01,Taylor,Server,7.77
+2025-11-01,Chris,Server,7.59
+2025-11-01,Ken,Sushi Chef,8.5
+2025-11-01,Leo,Sushi Chef,8.72
+2025-11-01,Nina,Kitchen,8.66
+2025-11-01,Owen,Kitchen,8.77
+2025-11-02,Alex,Server,7.72
+2025-11-02,Jordan,Server,8.57
+2025-11-02,Mia,Server,7.17
+2025-11-02,Sam,Server,7.61
+2025-11-02,Taylor,Server,8.02
+2025-11-02,Chris,Server,7.65
+2025-11-02,Ken,Sushi Chef,8.35
+2025-11-02,Leo,Sushi Chef,8.01
+2025-11-02,Nina,Kitchen,8.4
+2025-11-02,Owen,Kitchen,8.73
+2025-11-03,Alex,Server,6.23
+2025-11-03,Jordan,Server,6.06
+2025-11-03,Mia,Server,6.27
+2025-11-03,Sam,Server,7.05
+2025-11-03,Taylor,Server,7.05
+2025-11-03,Chris,Server,6.26
+2025-11-03,Ken,Sushi Chef,7.25
+2025-11-03,Leo,Sushi Chef,6.99
+2025-11-03,Nina,Kitchen,7.64
+2025-11-03,Owen,Kitchen,7.1
+2025-11-04,Alex,Server,6.4
+2025-11-04,Jordan,Server,7.3
+2025-11-04,Mia,Server,6.04
+2025-11-04,Sam,Server,6.66
+2025-11-04,Taylor,Server,7.18
+2025-11-04,Chris,Server,6.83
+2025-11-04,Ken,Sushi Chef,6.62
+2025-11-04,Leo,Sushi Chef,6.59
+2025-11-04,Nina,Kitchen,6.3
+2025-11-04,Owen,Kitchen,7.74
+2025-11-05,Alex,Server,5.93
+2025-11-05,Jordan,Server,6.86
+2025-11-05,Mia,Server,5.79
+2025-11-05,Sam,Server,7.78
+2025-11-05,Taylor,Server,5.82
+2025-11-05,Chris,Server,6.52
+2025-11-05,Ken,Sushi Chef,7.61
+2025-11-05,Leo,Sushi Chef,6.65
+2025-11-05,Nina,Kitchen,7.28
+2025-11-05,Owen,Kitchen,6.86
+2025-11-06,Alex,Server,6.69
+2025-11-06,Jordan,Server,7.04
+2025-11-06,Mia,Server,6.29
+2025-11-06,Sam,Server,7.25
+2025-11-06,Taylor,Server,6.68
+2025-11-06,Chris,Server,7.47
+2025-11-06,Ken,Sushi Chef,6.58
+2025-11-06,Leo,Sushi Chef,6.68
+2025-11-06,Nina,Kitchen,6.88
+2025-11-06,Owen,Kitchen,6.39
+2025-11-07,Alex,Server,6.96
+2025-11-07,Jordan,Server,6.46
+2025-11-07,Mia,Server,5.93
+2025-11-07,Sam,Server,6.09
+2025-11-07,Taylor,Server,6.07
+2025-11-07,Chris,Server,6.96
+2025-11-07,Ken,Sushi Chef,7.23
+2025-11-07,Leo,Sushi Chef,6.93
+2025-11-07,Nina,Kitchen,6.82
+2025-11-07,Owen,Kitchen,6.88
+2025-11-08,Alex,Server,8.89
+2025-11-08,Jordan,Server,7.88
+2025-11-08,Mia,Server,8.43
+2025-11-08,Sam,Server,7.84
+2025-11-08,Taylor,Server,8.84
+2025-11-08,Chris,Server,7.39
+2025-11-08,Ken,Sushi Chef,8.9
+2025-11-08,Leo,Sushi Chef,8.12
+2025-11-08,Nina,Kitchen,9.61
+2025-11-08,Owen,Kitchen,8.85
+2025-11-09,Alex,Server,7.15
+2025-11-09,Jordan,Server,7.53
+2025-11-09,Mia,Server,8.34
+2025-11-09,Sam,Server,8.33
+2025-11-09,Taylor,Server,8.29
+2025-11-09,Chris,Server,8.08
+2025-11-09,Ken,Sushi Chef,8.34
+2025-11-09,Leo,Sushi Chef,9.04
+2025-11-09,Nina,Kitchen,8.07
+2025-11-09,Owen,Kitchen,8.53
+2025-11-10,Alex,Server,6.19
+2025-11-10,Jordan,Server,6.15
+2025-11-10,Mia,Server,6.27
+2025-11-10,Sam,Server,6.13
+2025-11-10,Taylor,Server,6.77
+2025-11-10,Chris,Server,5.76
+2025-11-10,Ken,Sushi Chef,7.22
+2025-11-10,Leo,Sushi Chef,6.68
+2025-11-10,Nina,Kitchen,7.02
+2025-11-10,Owen,Kitchen,6.92
+2025-11-11,Alex,Server,6.25
+2025-11-11,Jordan,Server,7.11
+2025-11-11,Mia,Server,6.31
+2025-11-11,Sam,Server,6.85
+2025-11-11,Taylor,Server,6.86
+2025-11-11,Chris,Server,6.36
+2025-11-11,Ken,Sushi Chef,6.37
+2025-11-11,Leo,Sushi Chef,6.56
+2025-11-11,Nina,Kitchen,7.64
+2025-11-11,Owen,Kitchen,7.25
+2025-11-12,Alex,Server,6.57
+2025-11-12,Jordan,Server,6.22
+2025-11-12,Mia,Server,7.37
+2025-11-12,Sam,Server,6.07
+2025-11-12,Taylor,Server,6.57
+2025-11-12,Chris,Server,6.75
+2025-11-12,Ken,Sushi Chef,6.35
+2025-11-12,Leo,Sushi Chef,6.62
+2025-11-12,Nina,Kitchen,6.77
+2025-11-12,Owen,Kitchen,7.43
+2025-11-13,Alex,Server,6.28
+2025-11-13,Jordan,Server,5.78
+2025-11-13,Mia,Server,5.73
+2025-11-13,Sam,Server,6.12
+2025-11-13,Taylor,Server,5.75
+2025-11-13,Chris,Server,6.88
+2025-11-13,Ken,Sushi Chef,7.4
+2025-11-13,Leo,Sushi Chef,7.0
+2025-11-13,Nina,Kitchen,6.87
+2025-11-13,Owen,Kitchen,7.37
+2025-11-14,Alex,Server,6.85
+2025-11-14,Jordan,Server,6.01
+2025-11-14,Mia,Server,6.08
+2025-11-14,Sam,Server,6.85
+2025-11-14,Taylor,Server,6.64
+2025-11-14,Chris,Server,6.8
+2025-11-14,Ken,Sushi Chef,6.55
+2025-11-14,Leo,Sushi Chef,6.62
+2025-11-14,Nina,Kitchen,7.23
+2025-11-14,Owen,Kitchen,6.66
+2025-11-15,Alex,Server,7.24
+2025-11-15,Jordan,Server,7.67
+2025-11-15,Mia,Server,7.9
+2025-11-15,Sam,Server,8.85
+2025-11-15,Taylor,Server,7.58
+2025-11-15,Chris,Server,7.97
+2025-11-15,Ken,Sushi Chef,9.52
+2025-11-15,Leo,Sushi Chef,7.95
+2025-11-15,Nina,Kitchen,8.83
+2025-11-15,Owen,Kitchen,8.14
+2025-11-16,Alex,Server,8.2
+2025-11-16,Jordan,Server,9.17
+2025-11-16,Mia,Server,8.4
+2025-11-16,Sam,Server,8.08
+2025-11-16,Taylor,Server,7.52
+2025-11-16,Chris,Server,7.91
+2025-11-16,Ken,Sushi Chef,8.22
+2025-11-16,Leo,Sushi Chef,7.77
+2025-11-16,Nina,Kitchen,7.44
+2025-11-16,Owen,Kitchen,8.08
+2025-11-17,Alex,Server,6.48
+2025-11-17,Jordan,Server,7.06
+2025-11-17,Mia,Server,6.13
+2025-11-17,Sam,Server,6.6
+2025-11-17,Taylor,Server,5.65
+2025-11-17,Chris,Server,6.1
+2025-11-17,Ken,Sushi Chef,5.78
+2025-11-17,Leo,Sushi Chef,8.12
+2025-11-17,Nina,Kitchen,7.1
+2025-11-17,Owen,Kitchen,7.08
+2025-11-18,Alex,Server,6.77
+2025-11-18,Jordan,Server,7.77
+2025-11-18,Mia,Server,6.28
+2025-11-18,Sam,Server,6.01
+2025-11-18,Taylor,Server,7.5
+2025-11-18,Chris,Server,5.88
+2025-11-18,Ken,Sushi Chef,7.65
+2025-11-18,Leo,Sushi Chef,6.96
+2025-11-18,Nina,Kitchen,7.22
+2025-11-18,Owen,Kitchen,6.28
+2025-11-19,Alex,Server,7.8
+2025-11-19,Jordan,Server,6.31
+2025-11-19,Mia,Server,6.15
+2025-11-19,Sam,Server,6.77
+2025-11-19,Taylor,Server,6.18
+2025-11-19,Chris,Server,6.71
+2025-11-19,Ken,Sushi Chef,6.37
+2025-11-19,Leo,Sushi Chef,7.07
+2025-11-19,Nina,Kitchen,6.7
+2025-11-19,Owen,Kitchen,6.61
+2025-11-20,Alex,Server,6.03
+2025-11-20,Jordan,Server,6.94
+2025-11-20,Mia,Server,6.32
+2025-11-20,Sam,Server,6.41
+2025-11-20,Taylor,Server,6.71
+2025-11-20,Chris,Server,7.07
+2025-11-20,Ken,Sushi Chef,6.54
+2025-11-20,Leo,Sushi Chef,7.11
+2025-11-20,Nina,Kitchen,6.55
+2025-11-20,Owen,Kitchen,6.9
+2025-11-21,Alex,Server,7.03
+2025-11-21,Jordan,Server,5.33
+2025-11-21,Mia,Server,6.04
+2025-11-21,Sam,Server,6.38
+2025-11-21,Taylor,Server,6.69
+2025-11-21,Chris,Server,7.11
+2025-11-21,Ken,Sushi Chef,6.15
+2025-11-21,Leo,Sushi Chef,7.71
+2025-11-21,Nina,Kitchen,7.26
+2025-11-21,Owen,Kitchen,6.88
+2025-11-22,Alex,Server,7.27
+2025-11-22,Jordan,Server,7.71
+2025-11-22,Mia,Server,8.51
+2025-11-22,Sam,Server,8.01
+2025-11-22,Taylor,Server,7.91
+2025-11-22,Chris,Server,7.51
+2025-11-22,Ken,Sushi Chef,8.87
+2025-11-22,Leo,Sushi Chef,8.43
+2025-11-22,Nina,Kitchen,8.38
+2025-11-22,Owen,Kitchen,8.45
+2025-11-23,Alex,Server,7.68
+2025-11-23,Jordan,Server,7.59
+2025-11-23,Mia,Server,7.24
+2025-11-23,Sam,Server,7.69
+2025-11-23,Taylor,Server,7.1
+2025-11-23,Chris,Server,8.24
+2025-11-23,Ken,Sushi Chef,8.17
+2025-11-23,Leo,Sushi Chef,8.3
+2025-11-23,Nina,Kitchen,8.48
+2025-11-23,Owen,Kitchen,8.1
+2025-11-24,Alex,Server,5.91
+2025-11-24,Jordan,Server,6.61
+2025-11-24,Mia,Server,7.44
+2025-11-24,Sam,Server,6.96
+2025-11-24,Taylor,Server,7.14
+2025-11-24,Chris,Server,5.85
+2025-11-24,Ken,Sushi Chef,6.9
+2025-11-24,Leo,Sushi Chef,6.9
+2025-11-24,Nina,Kitchen,7.71
+2025-11-24,Owen,Kitchen,7.46
+2025-11-25,Alex,Server,6.42
+2025-11-25,Jordan,Server,5.36
+2025-11-25,Mia,Server,5.92
+2025-11-25,Sam,Server,6.82
+2025-11-25,Taylor,Server,6.34
+2025-11-25,Chris,Server,6.44
+2025-11-25,Ken,Sushi Chef,7.31
+2025-11-25,Leo,Sushi Chef,7.57
+2025-11-25,Nina,Kitchen,6.61
+2025-11-25,Owen,Kitchen,7.3
+2025-11-26,Alex,Server,7.31
+2025-11-26,Jordan,Server,7.21
+2025-11-26,Mia,Server,6.23
+2025-11-26,Sam,Server,6.65
+2025-11-26,Taylor,Server,6.88
+2025-11-26,Chris,Server,6.51
+2025-11-26,Ken,Sushi Chef,6.88
+2025-11-26,Leo,Sushi Chef,6.13
+2025-11-26,Nina,Kitchen,6.57
+2025-11-26,Owen,Kitchen,6.65
+2025-11-27,Alex,Server,5.87
+2025-11-27,Jordan,Server,6.55
+2025-11-27,Mia,Server,6.93
+2025-11-27,Sam,Server,6.29
+2025-11-27,Taylor,Server,5.4
+2025-11-27,Chris,Server,6.44
+2025-11-27,Ken,Sushi Chef,7.14
+2025-11-27,Leo,Sushi Chef,7.1
+2025-11-27,Nina,Kitchen,6.64
+2025-11-27,Owen,Kitchen,6.4
+2025-11-28,Alex,Server,6.94
+2025-11-28,Jordan,Server,6.68
+2025-11-28,Mia,Server,6.16
+2025-11-28,Sam,Server,5.75
+2025-11-28,Taylor,Server,6.61
+2025-11-28,Chris,Server,6.05
+2025-11-28,Ken,Sushi Chef,7.19
+2025-11-28,Leo,Sushi Chef,7.08
+2025-11-28,Nina,Kitchen,8.04
+2025-11-28,Owen,Kitchen,6.96
+2025-11-29,Alex,Server,9.0
+2025-11-29,Jordan,Server,8.04
+2025-11-29,Mia,Server,7.67
+2025-11-29,Sam,Server,7.47
+2025-11-29,Taylor,Server,7.56
+2025-11-29,Chris,Server,8.21
+2025-11-29,Ken,Sushi Chef,8.56
+2025-11-29,Leo,Sushi Chef,7.58
+2025-11-29,Nina,Kitchen,9.01
+2025-11-29,Owen,Kitchen,9.24
+2025-11-30,Alex,Server,7.08
+2025-11-30,Jordan,Server,8.51
+2025-11-30,Mia,Server,8.84
+2025-11-30,Sam,Server,7.1
+2025-11-30,Taylor,Server,7.77
+2025-11-30,Chris,Server,7.58
+2025-11-30,Ken,Sushi Chef,8.99
+2025-11-30,Leo,Sushi Chef,8.29
+2025-11-30,Nina,Kitchen,8.27
+2025-11-30,Owen,Kitchen,8.71
+2025-12-01,Alex,Server,7.28
+2025-12-01,Jordan,Server,6.47
+2025-12-01,Mia,Server,6.26
+2025-12-01,Sam,Server,6.36
+2025-12-01,Taylor,Server,6.83
+2025-12-01,Chris,Server,5.83
+2025-12-01,Ken,Sushi Chef,6.99
+2025-12-01,Leo,Sushi Chef,6.53
+2025-12-01,Nina,Kitchen,6.4
+2025-12-01,Owen,Kitchen,6.03
+2025-12-02,Alex,Server,6.24
+2025-12-02,Jordan,Server,7.04
+2025-12-02,Mia,Server,5.51
+2025-12-02,Sam,Server,6.77
+2025-12-02,Taylor,Server,6.18
+2025-12-02,Chris,Server,5.97
+2025-12-02,Ken,Sushi Chef,7.17
+2025-12-02,Leo,Sushi Chef,7.66
+2025-12-02,Nina,Kitchen,7.75
+2025-12-02,Owen,Kitchen,7.14
+2025-12-03,Alex,Server,6.46
+2025-12-03,Jordan,Server,6.7
+2025-12-03,Mia,Server,7.74
+2025-12-03,Sam,Server,6.35
+2025-12-03,Taylor,Server,7.07
+2025-12-03,Chris,Server,
+2025-12-03,Ken,Sushi Chef,6.58
+2025-12-03,Leo,Sushi Chef,7.88
+2025-12-03,Nina,Kitchen,7.0
+2025-12-03,Owen,Kitchen,7.11
+2025-12-04,Alex,Server,6.77
+2025-12-04,Jordan,Server,6.05
+2025-12-04,Mia,Server,6.28
+2025-12-04,Sam,Server,6.18
+2025-12-04,Taylor,Server,6.67
+2025-12-04,Chris,Server,6.68
+2025-12-04,Ken,Sushi Chef,6.7
+2025-12-04,Leo,Sushi Chef,8.01
+2025-12-04,Nina,Kitchen,6.99
+2025-12-04,Owen,Kitchen,7.05
+2025-12-05,Alex,Server,7.17
+2025-12-05,Jordan,Server,6.06
+2025-12-05,Mia,Server,6.24
+2025-12-05,Sam,Server,6.64
+2025-12-05,Taylor,Server,5.76
+2025-12-05,Chris,Server,6.38
+2025-12-05,Ken,Sushi Chef,8.03
+2025-12-05,Leo,Sushi Chef,7.91
+2025-12-05,Nina,Kitchen,7.45
+2025-12-05,Owen,Kitchen,7.59
+2025-12-06,Alex,Server,8.25
+2025-12-06,Jordan,Server,7.78
+2025-12-06,Mia,Server,8.82
+2025-12-06,Sam,Server,7.53
+2025-12-06,Taylor,Server,8.48
+2025-12-06,Chris,Server,7.75
+2025-12-06,Ken,Sushi Chef,8.28
+2025-12-06,Leo,Sushi Chef,8.77
+2025-12-06,Nina,Kitchen,9.52
+2025-12-06,Owen,Kitchen,9.21
+2025-12-07,Alex,Server,8.17
+2025-12-07,Jordan,Server,8.03
+2025-12-07,Mia,Server,8.39
+2025-12-07,Sam,Server,8.68
+2025-12-07,Taylor,Server,7.12
+2025-12-07,Chris,Server,7.94
+2025-12-07,Ken,Sushi Chef,7.97
+2025-12-07,Leo,Sushi Chef,8.39
+2025-12-07,Nina,Kitchen,7.87
+2025-12-07,Owen,Kitchen,7.6
+2025-12-08,Alex,Server,5.84
+2025-12-08,Jordan,Server,6.22
+2025-12-08,Mia,Server,6.79
+2025-12-08,Sam,Server,6.09
+2025-12-08,Taylor,Server,6.07
+2025-12-08,Chris,Server,6.7
+2025-12-08,Ken,Sushi Chef,7.14
+2025-12-08,Leo,Sushi Chef,7.85
+2025-12-08,Nina,Kitchen,7.47
+2025-12-08,Owen,Kitchen,6.49
+2025-12-09,Alex,Server,6.16
+2025-12-09,Jordan,Server,6.87
+2025-12-09,Mia,Server,6.06
+2025-12-09,Sam,Server,6.34
+2025-12-09,Taylor,Server,5.64
+2025-12-09,Chris,Server,5.85
+2025-12-09,Ken,Sushi Chef,7.63
+2025-12-09,Leo,Sushi Chef,7.08
+2025-12-09,Nina,Kitchen,6.69
+2025-12-09,Owen,Kitchen,6.76
+2025-12-10,Alex,Server,7.36
+2025-12-10,Jordan,Server,6.17
+2025-12-10,Mia,Server,6.74
+2025-12-10,Sam,Server,6.94
+2025-12-10,Taylor,Server,7.22
+2025-12-10,Chris,Server,6.07
+2025-12-10,Ken,Sushi Chef,6.3
+2025-12-10,Leo,Sushi Chef,6.45
+2025-12-10,Nina,Kitchen,7.37
+2025-12-10,Owen,Kitchen,8.0
+2025-12-11,Alex,Server,6.88
+2025-12-11,Jordan,Server,6.17
+2025-12-11,Mia,Server,7.09
+2025-12-11,Sam,Server,6.27
+2025-12-11,Taylor,Server,6.08
+2025-12-11,Chris,Server,6.33
+2025-12-11,Ken,Sushi Chef,6.71
+2025-12-11,Leo,Sushi Chef,6.65
+2025-12-11,Nina,Kitchen,7.61
+2025-12-11,Owen,Kitchen,6.74
+2025-12-12,Alex,Server,5.71
+2025-12-12,Jordan,Server,6.79
+2025-12-12,Mia,Server,6.02
+2025-12-12,Sam,Server,6.04
+2025-12-12,Taylor,Server,6.85
+2025-12-12,Chris,Server,6.14
+2025-12-12,Ken,Sushi Chef,6.77
+2025-12-12,Leo,Sushi Chef,7.02
+2025-12-12,Nina,Kitchen,6.86
+2025-12-12,Owen,Kitchen,6.79
+2025-12-13,Alex,Server,6.83
+2025-12-13,Jordan,Server,7.91
+2025-12-13,Mia,Server,8.81
+2025-12-13,Sam,Server,8.31
+2025-12-13,Taylor,Server,7.81
+2025-12-13,Chris,Server,8.24
+2025-12-13,Ken,Sushi Chef,8.81
+2025-12-13,Leo,Sushi Chef,8.08
+2025-12-13,Nina,Kitchen,9.13
+2025-12-13,Owen,Kitchen,8.58
+2025-12-14,Alex,Server,7.84
+2025-12-14,Jordan,Server,8.8
+2025-12-14,Mia,Server,6.97
+2025-12-14,Sam,Server,7.41
+2025-12-14,Taylor,Server,8.32
+2025-12-14,Chris,Server,8.34
+2025-12-14,Ken,Sushi Chef,9.32
+2025-12-14,Leo,Sushi Chef,7.37
+2025-12-14,Nina,Kitchen,8.93
+2025-12-14,Owen,Kitchen,7.88
+2025-12-15,Alex,Server,6.71
+2025-12-15,Jordan,Server,6.47
+2025-12-15,Mia,Server,6.92
+2025-12-15,Sam,Server,6.38
+2025-12-15,Taylor,Server,7.01
+2025-12-15,Chris,Server,6.09
+2025-12-15,Ken,Sushi Chef,6.96
+2025-12-15,Leo,Sushi Chef,7.1
+2025-12-15,Nina,Kitchen,7.84
+2025-12-15,Owen,Kitchen,7.42
+2025-12-16,Alex,Server,6.6
+2025-12-16,Jordan,Server,6.82
+2025-12-16,Mia,Server,7.04
+2025-12-16,Sam,Server,6.69
+2025-12-16,Taylor,Server,5.99
+2025-12-16,Chris,Server,6.81
+2025-12-16,Ken,Sushi Chef,6.99
+2025-12-16,Leo,Sushi Chef,6.82
+2025-12-16,Nina,Kitchen,6.61
+2025-12-16,Owen,Kitchen,7.29
+2025-12-17,Alex,Server,6.76
+2025-12-17,Jordan,Server,6.02
+2025-12-17,Mia,Server,5.95
+2025-12-17,Sam,Server,
+2025-12-17,Taylor,Server,6.93
+2025-12-17,Chris,Server,6.54
+2025-12-17,Ken,Sushi Chef,7.3
+2025-12-17,Leo,Sushi Chef,6.77
+2025-12-17,Nina,Kitchen,6.91
+2025-12-17,Owen,Kitchen,7.01
+2025-12-18,Alex,Server,6.98
+2025-12-18,Jordan,Server,5.79
+2025-12-18,Mia,Server,5.99
+2025-12-18,Sam,Server,5.89
+2025-12-18,Taylor,Server,6.93
+2025-12-18,Chris,Server,6.45
+2025-12-18,Ken,Sushi Chef,6.54
+2025-12-18,Leo,Sushi Chef,6.89
+2025-12-18,Nina,Kitchen,6.68
+2025-12-18,Owen,Kitchen,6.28
+2025-12-19,Alex,Server,7.13
+2025-12-19,Jordan,Server,6.43
+2025-12-19,Mia,Server,7.14
+2025-12-19,Sam,Server,5.78
+2025-12-19,Taylor,Server,6.75
+2025-12-19,Chris,Server,5.78
+2025-12-19,Ken,Sushi Chef,8.22
+2025-12-19,Leo,Sushi Chef,6.14
+2025-12-19,Nina,Kitchen,7.9
+2025-12-19,Owen,Kitchen,6.99
+2025-12-20,Alex,Server,7.91
+2025-12-20,Jordan,Server,8.29
+2025-12-20,Mia,Server,7.53
+2025-12-20,Sam,Server,8.39
+2025-12-20,Taylor,Server,8.43
+2025-12-20,Chris,Server,8.01
+2025-12-20,Ken,Sushi Chef,8.63
+2025-12-20,Leo,Sushi Chef,9.46
+2025-12-20,Nina,Kitchen,8.83
+2025-12-20,Owen,Kitchen,8.11
+2025-12-21,Alex,Server,8.38
+2025-12-21,Jordan,Server,7.73
+2025-12-21,Mia,Server,7.63
+2025-12-21,Sam,Server,8.26
+2025-12-21,Taylor,Server,7.5
+2025-12-21,Chris,Server,8.02
+2025-12-21,Ken,Sushi Chef,8.84
+2025-12-21,Leo,Sushi Chef,9.45
+2025-12-21,Nina,Kitchen,8.82
+2025-12-21,Owen,Kitchen,7.77
+2025-12-22,Alex,Server,5.84
+2025-12-22,Jordan,Server,7.36
+2025-12-22,Mia,Server,6.18
+2025-12-22,Sam,Server,5.74
+2025-12-22,Taylor,Server,6.0
+2025-12-22,Chris,Server,6.9
+2025-12-22,Ken,Sushi Chef,7.06
+2025-12-22,Leo,Sushi Chef,7.32
+2025-12-22,Nina,Kitchen,6.98
+2025-12-22,Owen,Kitchen,6.45
+2025-12-23,Alex,Server,5.61
+2025-12-23,Jordan,Server,6.08
+2025-12-23,Mia,Server,6.56
+2025-12-23,Sam,Server,5.91
+2025-12-23,Taylor,Server,6.99
+2025-12-23,Chris,Server,6.0
+2025-12-23,Ken,Sushi Chef,6.17
+2025-12-23,Leo,Sushi Chef,7.0
+2025-12-23,Nina,Kitchen,7.38
+2025-12-23,Owen,Kitchen,7.75
+2025-12-24,Alex,Server,5.69
+2025-12-24,Jordan,Server,7.21
+2025-12-24,Mia,Server,6.59
+2025-12-24,Sam,Server,6.19
+2025-12-24,Taylor,Server,6.84
+2025-12-24,Chris,Server,7.18
+2025-12-24,Ken,Sushi Chef,6.16
+2025-12-24,Leo,Sushi Chef,6.78
+2025-12-24,Nina,Kitchen,6.73
+2025-12-24,Owen,Kitchen,7.31
+2025-12-25,Alex,Server,7.23
+2025-12-25,Jordan,Server,6.54
+2025-12-25,Mia,Server,6.35
+2025-12-25,Sam,Server,6.72
+2025-12-25,Taylor,Server,6.38
+2025-12-25,Chris,Server,5.42
+2025-12-25,Ken,Sushi Chef,7.26
+2025-12-25,Leo,Sushi Chef,7.49
+2025-12-25,Nina,Kitchen,7.54
+2025-12-25,Owen,Kitchen,6.42
+2025-12-26,Alex,Server,6.8
+2025-12-26,Jordan,Server,7.27
+2025-12-26,Mia,Server,7.77
+2025-12-26,Sam,Server,6.74
+2025-12-26,Taylor,Server,6.99
+2025-12-26,Chris,Server,6.0
+2025-12-26,Ken,Sushi Chef,6.44
+2025-12-26,Leo,Sushi Chef,7.49
+2025-12-26,Nina,Kitchen,5.98
+2025-12-26,Owen,Kitchen,7.08
+2025-12-27,Alex,Server,8.72
+2025-12-27,Jordan,Server,8.36
+2025-12-27,Mia,Server,8.35
+2025-12-27,Sam,Server,7.98
+2025-12-27,Taylor,Server,7.8
+2025-12-27,Chris,Server,9.08
+2025-12-27,Ken,Sushi Chef,9.12
+2025-12-27,Leo,Sushi Chef,8.92
+2025-12-27,Nina,Kitchen,8.51
+2025-12-27,Owen,Kitchen,8.21
+2025-12-28,Alex,Server,8.54
+2025-12-28,Jordan,Server,7.85
+2025-12-28,Mia,Server,8.04
+2025-12-28,Sam,Server,8.31
+2025-12-28,Taylor,Server,8.1
+2025-12-28,Chris,Server,8.77
+2025-12-28,Ken,Sushi Chef,7.84
+2025-12-28,Leo,Sushi Chef,8.53
+2025-12-28,Nina,Kitchen,9.57
+2025-12-28,Owen,Kitchen,8.95
+2025-12-29,Alex,Server,6.4
+2025-12-29,Jordan,Server,6.9
+2025-12-29,Mia,Server,6.48
+2025-12-29,Sam,Server,7.23
+2025-12-29,Taylor,Server,6.91
+2025-12-29,Chris,Server,6.07
+2025-12-29,Ken,Sushi Chef,7.12
+2025-12-29,Leo,Sushi Chef,7.21
+2025-12-29,Nina,Kitchen,7.23
+2025-12-29,Owen,Kitchen,7.16
+2025-12-30,Alex,Server,6.78
+2025-12-30,Jordan,Server,6.71
+2025-12-30,Mia,Server,6.14
+2025-12-30,Sam,Server,6.27
+2025-12-30,Taylor,Server,6.37
+2025-12-30,Chris,Server,6.55
+2025-12-30,Ken,Sushi Chef,6.87
+2025-12-30,Leo,Sushi Chef,7.55
+2025-12-30,Nina,Kitchen,6.52
+2025-12-30,Owen,Kitchen,6.13
+2025-12-31,Alex,Server,7.48
+2025-12-31,Jordan,Server,6.09
+2025-12-31,Mia,Server,7.05
+2025-12-31,Sam,Server,6.8
+2025-12-31,Taylor,Server,6.11
+2025-12-31,Chris,Server,6.43
+2025-12-31,Ken,Sushi Chef,6.86
+2025-12-31,Leo,Sushi Chef,7.18
+2025-12-31,Nina,Kitchen,6.62
+2025-12-31,Owen,Kitchen,6.91

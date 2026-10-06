@@ -1,0 +1,16 @@
+menu_item,category,price,ingredient_cost,prep_time_min
+Spicy Tuna Roll,Roll,11.0,3.1,5
+Salmon Nigiri,Nigiri,9.0,3.0,3
+Tuna Nigiri,Nigiri,10.0,3.4,3
+California Roll,Roll,8.5,2.2,5
+Dragon Roll,Roll,15.0,5.2,8
+Salmon Roll,Roll,10.5,2.9,5
+Yellowtail Nigiri,Nigiri,11.0,3.7,3
+Edamame,Appetizer,6.0,1.3,2
+Miso Soup,Soup,4.0,0.8,2
+Gyoza,Appetizer,8.0,2.7,7
+Tempura Udon,Entree,14.0,5.0,10
+Chicken Teriyaki,Entree,16.0,5.8,12
+Sashimi Platter,Sashimi,24.0,10.5,8
+Hamachi Kama,Entree,18.0,7.2,12
+Matcha Cheesecake,Dessert,7.0,2.1,6
